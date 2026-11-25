@@ -43,7 +43,7 @@ Le [wiki officiel Beds24 — TDS](https://wiki.beds24.com/index.php/TDS) décrit
 
 La [licence officielle Unsplash](https://unsplash.com/license) autorise le téléchargement, la copie, l’adaptation et l’utilisation commerciale. Ne pas revendre les images seules ou reproduire un service de banque d’images. Les visuels représentent différents lieux réels et illustrent une maison fictive ; ne pas prétendre qu’ils constituent un reportage d’un hôtel réel nommé CASA SUPRANA, et ne pas suggérer l’approbation des photographes ou établissements représentés.
 
-Aucune photographie des cinq hôtels de référence n’a été reprise. Le dossier `rejected/` contient une photographie de bain japonais écartée à l’inspection visuelle ; ne pas l’intégrer au site.
+Aucune photographie des cinq hôtels de référence n’a été reprise. Une photographie de bain japonais a été écartée à l’inspection visuelle et n’est pas distribuée.
 
 `hero-wide.webp` est un simple recadrage 16:9 de la photographie `hero-sea`, documenté dans le manifeste ; aucun élément n’a été inventé ou assemblé. Les autres transformations se limitent au redimensionnement et à l’encodage WebP.
 

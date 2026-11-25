@@ -1,0 +1,772 @@
+[
+  {
+    "site": "Casa Suprana",
+    "language": "fr",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/",
+    "fetchTime": "2026-11-25T13:41:12.788Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1075.566,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1970.566,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 92,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1778.397357959652,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Casa Suprana",
+    "language": "fr",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/",
+    "fetchTime": "2026-11-25T13:41:27.028Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 372.726,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1145.726,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 760.530913683496,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Casa Suprana",
+    "language": "en",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/en/",
+    "fetchTime": "2026-11-25T13:41:40.326Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 953.975,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1878.975,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1256.7823739932774,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Casa Suprana",
+    "language": "en",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/en/",
+    "fetchTime": "2026-11-25T13:41:53.877Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 420.41700000000003,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 913.417,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 702.2630192511022,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Casa Suprana",
+    "language": "it",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/it/",
+    "fetchTime": "2026-11-25T13:42:07.930Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 93,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1029.004,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1949.004,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 305,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1555.6658959679362,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Casa Suprana",
+    "language": "it",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/it/",
+    "fetchTime": "2026-11-25T13:42:21.635Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 363.1179999999998,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 893.1179999999998,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 19,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1377.0763043479578,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Casa Suprana",
+    "language": "es",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/es/",
+    "fetchTime": "2026-11-25T13:42:36.788Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1021.1220000000001,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1951.122,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1301.8310239845991,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Casa Suprana",
+    "language": "es",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/es/",
+    "fetchTime": "2026-11-25T13:42:50.466Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 360.007,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 855.0070000000001,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 22,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 640.3310080054343,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Casa Suprana",
+    "language": "de",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/de/",
+    "fetchTime": "2026-11-25T13:43:04.092Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 984.8389999999999,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1897.839,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 51,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1508.7383980322838,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Casa Suprana",
+    "language": "de",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/de/",
+    "fetchTime": "2026-11-25T13:43:17.574Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 473.179,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 962.179,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 682.517576682953,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Portfolio",
+    "language": "fr",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/fr/",
+    "fetchTime": "2026-11-25T13:43:31.347Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1084.402,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1966.402,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1569.4699125652728,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Portfolio",
+    "language": "fr",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/fr/",
+    "fetchTime": "2026-11-25T13:43:45.011Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 355.639,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 553.639,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.0069092899280513275,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 573.6431608401983,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Fiche Casa Suprana",
+    "language": "fr",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/fr/projects/wordpress-pms.html",
+    "fetchTime": "2026-11-25T13:43:59.531Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1035.745,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1035.745,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 6,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1312.2571917656905,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Fiche Casa Suprana",
+    "language": "fr",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/fr/projects/wordpress-pms.html",
+    "fetchTime": "2026-11-25T13:44:13.704Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 488.79549999999995,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 725.7955,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.0006376686255048748,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 760.9888344823273,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  }
+]

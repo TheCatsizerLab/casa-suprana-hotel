@@ -1,5 +1,6 @@
 CASA SUPRANA — NEW SEPARATE REPOSITORY
 All files below are new. Existing WordPress connector copies are preserved unchanged.
+.gitattributes
 .gitignore
 .nojekyll
 README.md
@@ -168,7 +169,10 @@ docs/captures/it/table-booking.webp
 docs/design-references.md
 docs/file-list.txt
 docs/layout-results.json
+docs/lighthouse-results.json
+docs/portfolio-files.txt
 docs/portfolio-results.json
+docs/production-results.json
 docs/services-browser-results.json
 docs/services-tablet-results.json
 docs/static-results.json

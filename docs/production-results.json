@@ -1,0 +1,275 @@
+{
+  "pages": [
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/",
+      "status": 200,
+      "language": "fr",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/reserver/",
+      "status": 200,
+      "language": "fr",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/table/",
+      "status": 200,
+      "language": "fr",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/reserver-une-table/",
+      "status": 200,
+      "language": "fr",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/experiences/",
+      "status": 200,
+      "language": "fr",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/reserver-une-activite/",
+      "status": 200,
+      "language": "fr",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/administration/",
+      "status": 200,
+      "language": "fr",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/fr/",
+      "status": 200,
+      "language": "fr",
+      "localizedMedia": 1
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/fr/projects/wordpress-pms.html",
+      "status": 200,
+      "language": "fr",
+      "localizedMedia": 11
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/en/",
+      "status": 200,
+      "language": "en",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/en/reserver/",
+      "status": 200,
+      "language": "en",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/en/table/",
+      "status": 200,
+      "language": "en",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/en/reserver-une-table/",
+      "status": 200,
+      "language": "en",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/en/experiences/",
+      "status": 200,
+      "language": "en",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/en/reserver-une-activite/",
+      "status": 200,
+      "language": "en",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/en/administration/",
+      "status": 200,
+      "language": "en",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/",
+      "status": 200,
+      "language": "en",
+      "localizedMedia": 1
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/projects/wordpress-pms.html",
+      "status": 200,
+      "language": "en",
+      "localizedMedia": 11
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/it/",
+      "status": 200,
+      "language": "it",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/it/reserver/",
+      "status": 200,
+      "language": "it",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/it/table/",
+      "status": 200,
+      "language": "it",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/it/reserver-une-table/",
+      "status": 200,
+      "language": "it",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/it/experiences/",
+      "status": 200,
+      "language": "it",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/it/reserver-une-activite/",
+      "status": 200,
+      "language": "it",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/it/administration/",
+      "status": 200,
+      "language": "it",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/it/",
+      "status": 200,
+      "language": "it",
+      "localizedMedia": 1
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/it/projects/wordpress-pms.html",
+      "status": 200,
+      "language": "it",
+      "localizedMedia": 11
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/es/",
+      "status": 200,
+      "language": "es",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/es/reserver/",
+      "status": 200,
+      "language": "es",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/es/table/",
+      "status": 200,
+      "language": "es",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/es/reserver-une-table/",
+      "status": 200,
+      "language": "es",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/es/experiences/",
+      "status": 200,
+      "language": "es",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/es/reserver-une-activite/",
+      "status": 200,
+      "language": "es",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/es/administration/",
+      "status": 200,
+      "language": "es",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/es/",
+      "status": 200,
+      "language": "es",
+      "localizedMedia": 1
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/es/projects/wordpress-pms.html",
+      "status": 200,
+      "language": "es",
+      "localizedMedia": 11
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/de/",
+      "status": 200,
+      "language": "de",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/de/reserver/",
+      "status": 200,
+      "language": "de",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/de/table/",
+      "status": 200,
+      "language": "de",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/de/reserver-une-table/",
+      "status": 200,
+      "language": "de",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/de/experiences/",
+      "status": 200,
+      "language": "de",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/de/reserver-une-activite/",
+      "status": 200,
+      "language": "de",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/casa-suprana-hotel/de/administration/",
+      "status": 200,
+      "language": "de",
+      "overflow": false
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/de/",
+      "status": 200,
+      "language": "de",
+      "localizedMedia": 1
+    },
+    {
+      "url": "https://thecatsizerlab.github.io/de/projects/wordpress-pms.html",
+      "status": 200,
+      "language": "de",
+      "localizedMedia": 11
+    }
+  ],
+  "errors": []
+}

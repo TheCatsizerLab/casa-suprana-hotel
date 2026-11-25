@@ -1,0 +1,602 @@
+[
+  {
+    "language": "fr",
+    "route": "home",
+    "path": "/casa-suprana-hotel/"
+  },
+  {
+    "language": "fr",
+    "route": "house",
+    "path": "/casa-suprana-hotel/maison/"
+  },
+  {
+    "language": "fr",
+    "route": "rooms",
+    "path": "/casa-suprana-hotel/chambres/"
+  },
+  {
+    "language": "fr",
+    "route": "garden",
+    "path": "/casa-suprana-hotel/chambres/chambre-jardin/"
+  },
+  {
+    "language": "fr",
+    "route": "sea",
+    "path": "/casa-suprana-hotel/chambres/chambre-mer/"
+  },
+  {
+    "language": "fr",
+    "route": "terrace",
+    "path": "/casa-suprana-hotel/chambres/suite-terrasse/"
+  },
+  {
+    "language": "fr",
+    "route": "pines",
+    "path": "/casa-suprana-hotel/chambres/suite-pins/"
+  },
+  {
+    "language": "fr",
+    "route": "restaurant",
+    "path": "/casa-suprana-hotel/table/"
+  },
+  {
+    "language": "fr",
+    "route": "spa",
+    "path": "/casa-suprana-hotel/spa/"
+  },
+  {
+    "language": "fr",
+    "route": "experiences",
+    "path": "/casa-suprana-hotel/experiences/"
+  },
+  {
+    "language": "fr",
+    "route": "offers",
+    "path": "/casa-suprana-hotel/offres/"
+  },
+  {
+    "language": "fr",
+    "route": "gallery",
+    "path": "/casa-suprana-hotel/galerie/"
+  },
+  {
+    "language": "fr",
+    "route": "region",
+    "path": "/casa-suprana-hotel/region/"
+  },
+  {
+    "language": "fr",
+    "route": "information",
+    "path": "/casa-suprana-hotel/informations/"
+  },
+  {
+    "language": "fr",
+    "route": "contact",
+    "path": "/casa-suprana-hotel/contact/"
+  },
+  {
+    "language": "fr",
+    "route": "booking",
+    "path": "/casa-suprana-hotel/reserver/"
+  },
+  {
+    "language": "fr",
+    "route": "tableBooking",
+    "path": "/casa-suprana-hotel/reserver-une-table/"
+  },
+  {
+    "language": "fr",
+    "route": "activityBooking",
+    "path": "/casa-suprana-hotel/reserver-une-activite/"
+  },
+  {
+    "language": "fr",
+    "route": "manage",
+    "path": "/casa-suprana-hotel/ma-reservation/"
+  },
+  {
+    "language": "fr",
+    "route": "admin",
+    "path": "/casa-suprana-hotel/administration/"
+  },
+  {
+    "language": "fr",
+    "route": "legal",
+    "path": "/casa-suprana-hotel/mentions-legales/"
+  },
+  {
+    "language": "fr",
+    "route": "privacy",
+    "path": "/casa-suprana-hotel/confidentialite/"
+  },
+  {
+    "language": "fr",
+    "route": "accessibility",
+    "path": "/casa-suprana-hotel/accessibilite/"
+  },
+  {
+    "language": "fr",
+    "route": "credits",
+    "path": "/casa-suprana-hotel/credits/"
+  },
+  {
+    "language": "en",
+    "route": "home",
+    "path": "/casa-suprana-hotel/en/"
+  },
+  {
+    "language": "en",
+    "route": "house",
+    "path": "/casa-suprana-hotel/en/maison/"
+  },
+  {
+    "language": "en",
+    "route": "rooms",
+    "path": "/casa-suprana-hotel/en/chambres/"
+  },
+  {
+    "language": "en",
+    "route": "garden",
+    "path": "/casa-suprana-hotel/en/chambres/chambre-jardin/"
+  },
+  {
+    "language": "en",
+    "route": "sea",
+    "path": "/casa-suprana-hotel/en/chambres/chambre-mer/"
+  },
+  {
+    "language": "en",
+    "route": "terrace",
+    "path": "/casa-suprana-hotel/en/chambres/suite-terrasse/"
+  },
+  {
+    "language": "en",
+    "route": "pines",
+    "path": "/casa-suprana-hotel/en/chambres/suite-pins/"
+  },
+  {
+    "language": "en",
+    "route": "restaurant",
+    "path": "/casa-suprana-hotel/en/table/"
+  },
+  {
+    "language": "en",
+    "route": "spa",
+    "path": "/casa-suprana-hotel/en/spa/"
+  },
+  {
+    "language": "en",
+    "route": "experiences",
+    "path": "/casa-suprana-hotel/en/experiences/"
+  },
+  {
+    "language": "en",
+    "route": "offers",
+    "path": "/casa-suprana-hotel/en/offres/"
+  },
+  {
+    "language": "en",
+    "route": "gallery",
+    "path": "/casa-suprana-hotel/en/galerie/"
+  },
+  {
+    "language": "en",
+    "route": "region",
+    "path": "/casa-suprana-hotel/en/region/"
+  },
+  {
+    "language": "en",
+    "route": "information",
+    "path": "/casa-suprana-hotel/en/informations/"
+  },
+  {
+    "language": "en",
+    "route": "contact",
+    "path": "/casa-suprana-hotel/en/contact/"
+  },
+  {
+    "language": "en",
+    "route": "booking",
+    "path": "/casa-suprana-hotel/en/reserver/"
+  },
+  {
+    "language": "en",
+    "route": "tableBooking",
+    "path": "/casa-suprana-hotel/en/reserver-une-table/"
+  },
+  {
+    "language": "en",
+    "route": "activityBooking",
+    "path": "/casa-suprana-hotel/en/reserver-une-activite/"
+  },
+  {
+    "language": "en",
+    "route": "manage",
+    "path": "/casa-suprana-hotel/en/ma-reservation/"
+  },
+  {
+    "language": "en",
+    "route": "admin",
+    "path": "/casa-suprana-hotel/en/administration/"
+  },
+  {
+    "language": "en",
+    "route": "legal",
+    "path": "/casa-suprana-hotel/en/mentions-legales/"
+  },
+  {
+    "language": "en",
+    "route": "privacy",
+    "path": "/casa-suprana-hotel/en/confidentialite/"
+  },
+  {
+    "language": "en",
+    "route": "accessibility",
+    "path": "/casa-suprana-hotel/en/accessibilite/"
+  },
+  {
+    "language": "en",
+    "route": "credits",
+    "path": "/casa-suprana-hotel/en/credits/"
+  },
+  {
+    "language": "it",
+    "route": "home",
+    "path": "/casa-suprana-hotel/it/"
+  },
+  {
+    "language": "it",
+    "route": "house",
+    "path": "/casa-suprana-hotel/it/maison/"
+  },
+  {
+    "language": "it",
+    "route": "rooms",
+    "path": "/casa-suprana-hotel/it/chambres/"
+  },
+  {
+    "language": "it",
+    "route": "garden",
+    "path": "/casa-suprana-hotel/it/chambres/chambre-jardin/"
+  },
+  {
+    "language": "it",
+    "route": "sea",
+    "path": "/casa-suprana-hotel/it/chambres/chambre-mer/"
+  },
+  {
+    "language": "it",
+    "route": "terrace",
+    "path": "/casa-suprana-hotel/it/chambres/suite-terrasse/"
+  },
+  {
+    "language": "it",
+    "route": "pines",
+    "path": "/casa-suprana-hotel/it/chambres/suite-pins/"
+  },
+  {
+    "language": "it",
+    "route": "restaurant",
+    "path": "/casa-suprana-hotel/it/table/"
+  },
+  {
+    "language": "it",
+    "route": "spa",
+    "path": "/casa-suprana-hotel/it/spa/"
+  },
+  {
+    "language": "it",
+    "route": "experiences",
+    "path": "/casa-suprana-hotel/it/experiences/"
+  },
+  {
+    "language": "it",
+    "route": "offers",
+    "path": "/casa-suprana-hotel/it/offres/"
+  },
+  {
+    "language": "it",
+    "route": "gallery",
+    "path": "/casa-suprana-hotel/it/galerie/"
+  },
+  {
+    "language": "it",
+    "route": "region",
+    "path": "/casa-suprana-hotel/it/region/"
+  },
+  {
+    "language": "it",
+    "route": "information",
+    "path": "/casa-suprana-hotel/it/informations/"
+  },
+  {
+    "language": "it",
+    "route": "contact",
+    "path": "/casa-suprana-hotel/it/contact/"
+  },
+  {
+    "language": "it",
+    "route": "booking",
+    "path": "/casa-suprana-hotel/it/reserver/"
+  },
+  {
+    "language": "it",
+    "route": "tableBooking",
+    "path": "/casa-suprana-hotel/it/reserver-une-table/"
+  },
+  {
+    "language": "it",
+    "route": "activityBooking",
+    "path": "/casa-suprana-hotel/it/reserver-une-activite/"
+  },
+  {
+    "language": "it",
+    "route": "manage",
+    "path": "/casa-suprana-hotel/it/ma-reservation/"
+  },
+  {
+    "language": "it",
+    "route": "admin",
+    "path": "/casa-suprana-hotel/it/administration/"
+  },
+  {
+    "language": "it",
+    "route": "legal",
+    "path": "/casa-suprana-hotel/it/mentions-legales/"
+  },
+  {
+    "language": "it",
+    "route": "privacy",
+    "path": "/casa-suprana-hotel/it/confidentialite/"
+  },
+  {
+    "language": "it",
+    "route": "accessibility",
+    "path": "/casa-suprana-hotel/it/accessibilite/"
+  },
+  {
+    "language": "it",
+    "route": "credits",
+    "path": "/casa-suprana-hotel/it/credits/"
+  },
+  {
+    "language": "es",
+    "route": "home",
+    "path": "/casa-suprana-hotel/es/"
+  },
+  {
+    "language": "es",
+    "route": "house",
+    "path": "/casa-suprana-hotel/es/maison/"
+  },
+  {
+    "language": "es",
+    "route": "rooms",
+    "path": "/casa-suprana-hotel/es/chambres/"
+  },
+  {
+    "language": "es",
+    "route": "garden",
+    "path": "/casa-suprana-hotel/es/chambres/chambre-jardin/"
+  },
+  {
+    "language": "es",
+    "route": "sea",
+    "path": "/casa-suprana-hotel/es/chambres/chambre-mer/"
+  },
+  {
+    "language": "es",
+    "route": "terrace",
+    "path": "/casa-suprana-hotel/es/chambres/suite-terrasse/"
+  },
+  {
+    "language": "es",
+    "route": "pines",
+    "path": "/casa-suprana-hotel/es/chambres/suite-pins/"
+  },
+  {
+    "language": "es",
+    "route": "restaurant",
+    "path": "/casa-suprana-hotel/es/table/"
+  },
+  {
+    "language": "es",
+    "route": "spa",
+    "path": "/casa-suprana-hotel/es/spa/"
+  },
+  {
+    "language": "es",
+    "route": "experiences",
+    "path": "/casa-suprana-hotel/es/experiences/"
+  },
+  {
+    "language": "es",
+    "route": "offers",
+    "path": "/casa-suprana-hotel/es/offres/"
+  },
+  {
+    "language": "es",
+    "route": "gallery",
+    "path": "/casa-suprana-hotel/es/galerie/"
+  },
+  {
+    "language": "es",
+    "route": "region",
+    "path": "/casa-suprana-hotel/es/region/"
+  },
+  {
+    "language": "es",
+    "route": "information",
+    "path": "/casa-suprana-hotel/es/informations/"
+  },
+  {
+    "language": "es",
+    "route": "contact",
+    "path": "/casa-suprana-hotel/es/contact/"
+  },
+  {
+    "language": "es",
+    "route": "booking",
+    "path": "/casa-suprana-hotel/es/reserver/"
+  },
+  {
+    "language": "es",
+    "route": "tableBooking",
+    "path": "/casa-suprana-hotel/es/reserver-une-table/"
+  },
+  {
+    "language": "es",
+    "route": "activityBooking",
+    "path": "/casa-suprana-hotel/es/reserver-une-activite/"
+  },
+  {
+    "language": "es",
+    "route": "manage",
+    "path": "/casa-suprana-hotel/es/ma-reservation/"
+  },
+  {
+    "language": "es",
+    "route": "admin",
+    "path": "/casa-suprana-hotel/es/administration/"
+  },
+  {
+    "language": "es",
+    "route": "legal",
+    "path": "/casa-suprana-hotel/es/mentions-legales/"
+  },
+  {
+    "language": "es",
+    "route": "privacy",
+    "path": "/casa-suprana-hotel/es/confidentialite/"
+  },
+  {
+    "language": "es",
+    "route": "accessibility",
+    "path": "/casa-suprana-hotel/es/accessibilite/"
+  },
+  {
+    "language": "es",
+    "route": "credits",
+    "path": "/casa-suprana-hotel/es/credits/"
+  },
+  {
+    "language": "de",
+    "route": "home",
+    "path": "/casa-suprana-hotel/de/"
+  },
+  {
+    "language": "de",
+    "route": "house",
+    "path": "/casa-suprana-hotel/de/maison/"
+  },
+  {
+    "language": "de",
+    "route": "rooms",
+    "path": "/casa-suprana-hotel/de/chambres/"
+  },
+  {
+    "language": "de",
+    "route": "garden",
+    "path": "/casa-suprana-hotel/de/chambres/chambre-jardin/"
+  },
+  {
+    "language": "de",
+    "route": "sea",
+    "path": "/casa-suprana-hotel/de/chambres/chambre-mer/"
+  },
+  {
+    "language": "de",
+    "route": "terrace",
+    "path": "/casa-suprana-hotel/de/chambres/suite-terrasse/"
+  },
+  {
+    "language": "de",
+    "route": "pines",
+    "path": "/casa-suprana-hotel/de/chambres/suite-pins/"
+  },
+  {
+    "language": "de",
+    "route": "restaurant",
+    "path": "/casa-suprana-hotel/de/table/"
+  },
+  {
+    "language": "de",
+    "route": "spa",
+    "path": "/casa-suprana-hotel/de/spa/"
+  },
+  {
+    "language": "de",
+    "route": "experiences",
+    "path": "/casa-suprana-hotel/de/experiences/"
+  },
+  {
+    "language": "de",
+    "route": "offers",
+    "path": "/casa-suprana-hotel/de/offres/"
+  },
+  {
+    "language": "de",
+    "route": "gallery",
+    "path": "/casa-suprana-hotel/de/galerie/"
+  },
+  {
+    "language": "de",
+    "route": "region",
+    "path": "/casa-suprana-hotel/de/region/"
+  },
+  {
+    "language": "de",
+    "route": "information",
+    "path": "/casa-suprana-hotel/de/informations/"
+  },
+  {
+    "language": "de",
+    "route": "contact",
+    "path": "/casa-suprana-hotel/de/contact/"
+  },
+  {
+    "language": "de",
+    "route": "booking",
+    "path": "/casa-suprana-hotel/de/reserver/"
+  },
+  {
+    "language": "de",
+    "route": "tableBooking",
+    "path": "/casa-suprana-hotel/de/reserver-une-table/"
+  },
+  {
+    "language": "de",
+    "route": "activityBooking",
+    "path": "/casa-suprana-hotel/de/reserver-une-activite/"
+  },
+  {
+    "language": "de",
+    "route": "manage",
+    "path": "/casa-suprana-hotel/de/ma-reservation/"
+  },
+  {
+    "language": "de",
+    "route": "admin",
+    "path": "/casa-suprana-hotel/de/administration/"
+  },
+  {
+    "language": "de",
+    "route": "legal",
+    "path": "/casa-suprana-hotel/de/mentions-legales/"
+  },
+  {
+    "language": "de",
+    "route": "privacy",
+    "path": "/casa-suprana-hotel/de/confidentialite/"
+  },
+  {
+    "language": "de",
+    "route": "accessibility",
+    "path": "/casa-suprana-hotel/de/accessibilite/"
+  },
+  {
+    "language": "de",
+    "route": "credits",
+    "path": "/casa-suprana-hotel/de/credits/"
+  }
+]

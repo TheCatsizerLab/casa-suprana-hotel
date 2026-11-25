@@ -1,0 +1,9 @@
+export const BASE='/casa-suprana-hotel/';
+export const ORIGIN='https://thecatsizerlab.github.io';
+export const LANGUAGES=['fr','en','it','es','de'];
+export const LOCALES={fr:'fr-FR',en:'en-GB',it:'it-IT',es:'es-ES',de:'de-DE'};
+export const LANGUAGE_NAMES={fr:'Français',en:'English',it:'Italiano',es:'Español',de:'Deutsch'};
+export const ROUTES={home:'',house:'maison',rooms:'chambres',garden:'chambres/chambre-jardin',sea:'chambres/chambre-mer',terrace:'chambres/suite-terrasse',pines:'chambres/suite-pins',restaurant:'table',spa:'spa',experiences:'experiences',offers:'offres',gallery:'galerie',region:'region',information:'informations',contact:'contact',booking:'reserver',tableBooking:'reserver-une-table',activityBooking:'reserver-une-activite',manage:'ma-reservation',admin:'administration',legal:'mentions-legales',privacy:'confidentialite',accessibility:'accessibilite',credits:'credits'};
+export const pathFor=(route='home',lang='fr')=>BASE+(lang==='fr'?'':lang+'/')+(ROUTES[route]?ROUTES[route]+'/':'');
+export const asset=path=>BASE+'assets/'+path;
+export const escapeHTML=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

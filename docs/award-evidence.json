@@ -1,0 +1,50 @@
+{
+  "checked": "2026-11-25",
+  "pages": [
+    {
+      "url": "https://www.awwwards.com/sites/le-sirenuse-hotel-positano-1",
+      "status": 200,
+      "title": "Le Sirenuse Hotel Positano - Awwwards Honorable Mention",
+      "award_date": "Honorable Mention - Apr 22, 2021",
+      "verified_award_headings": [
+        "Honorable Mention - Apr 22, 2021"
+      ]
+    },
+    {
+      "url": "https://www.awwwards.com/sites/grand-hotel-miramare",
+      "status": 200,
+      "title": "Grand Hotel Miramare - Awwwards Honorable Mention",
+      "award_date": "Honorable Mention - Mar 20, 2024",
+      "verified_award_headings": [
+        "Honorable Mention - Mar 20, 2024"
+      ]
+    },
+    {
+      "url": "https://www.awwwards.com/sites/casa-cook-hotels",
+      "status": 200,
+      "title": "Casa Cook Hotels - Awwwards Honorable Mention",
+      "award_date": "Honorable Mention - May 16, 2019",
+      "verified_award_headings": [
+        "Honorable Mention - May 16, 2019"
+      ]
+    },
+    {
+      "url": "https://www.awwwards.com/sites/passalacqua-lake-como",
+      "status": 200,
+      "title": "Passalacqua - Lake Como - Awwwards Honorable Mention",
+      "award_date": "Honorable Mention - Dec 30, 2022",
+      "verified_award_headings": [
+        "Honorable Mention - Dec 30, 2022"
+      ]
+    },
+    {
+      "url": "https://www.awwwards.com/sites/constance-hotels-resorts",
+      "status": 200,
+      "title": "Constance Hotels & Resorts - Awwwards Honorable Mention",
+      "award_date": "Honorable Mention - Feb 11, 2025",
+      "verified_award_headings": [
+        "Honorable Mention - Feb 11, 2025"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "notice": "Illustrative photographs of different real places for a fictional hotel concept; no affiliation or endorsement is implied.",
+  "checked": "2026-11-25",
+  "assets": [
+    {
+      "id": "hero-sea",
+      "author": "Margo Evardson",
+      "source": "https://unsplash.com/photos/a-bright-blue-swimming-pool-overlooks-the-vast-ocean-eoMSMXXNT5E",
+      "download": "https://images.unsplash.com/photo-1765999906700-2d4dfd392966?auto=format&fit=max&w=2200&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Mallorca, Spain",
+      "alt_en": "A turquoise pool overlooking the Mediterranean and coastal pines",
+      "source_dimensions": [
+        2200,
+        2492
+      ],
+      "variants": {
+        "1920": {
+          "file": "hero-sea.webp",
+          "width": 1920,
+          "height": 2175,
+          "bytes": 720804
+        },
+        "960": {
+          "file": "hero-sea-960.webp",
+          "width": 960,
+          "height": 1087,
+          "bytes": 176838
+        },
+        "640": {
+          "file": "hero-sea-640.webp",
+          "width": 640,
+          "height": 725,
+          "bytes": 77828
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "landscape_crop": {
+        "crop_from_1920_variant": [
+          0,
+          900,
+          1920,
+          1980
+        ],
+        "purpose": "16:9 hero with Mediterranean water, pines and pool; crop only, no invented content",
+        "variants": {
+          "1920": {
+            "file": "hero-wide.webp",
+            "width": 1920,
+            "height": 1080
+          },
+          "960": {
+            "file": "hero-wide-960.webp",
+            "width": 960,
+            "height": 540
+          },
+          "640": {
+            "file": "hero-wide-640.webp",
+            "width": 640,
+            "height": 360
+          }
+        },
+        "alt_by_language": {
+          "fr": "Piscine turquoise dominant la mer Méditerranée, bordée de pins.",
+          "en": "Turquoise pool overlooking the Mediterranean, framed by coastal pines.",
+          "it": "Piscina turchese affacciata sul Mediterraneo, incorniciata dai pini.",
+          "es": "Piscina de aguas turquesas con vistas al Mediterráneo, rodeada de pinos.",
+          "de": "Türkisfarbener Pool mit Blick auf das Mittelmeer, eingerahmt von Pinien."
+        }
+      },
+      "alt_by_language": {
+        "fr": "Piscine turquoise dominant la mer Méditerranée, bordée de pins.",
+        "en": "Turquoise pool overlooking the Mediterranean, framed by coastal pines.",
+        "it": "Piscina turchese affacciata sul Mediterraneo, incorniciata dai pini.",
+        "es": "Piscina de aguas turquesas con vistas al Mediterráneo, rodeada de pinos.",
+        "de": "Türkisfarbener Pool mit Blick auf das Mittelmeer, eingerahmt von Pinien."
+      }
+    },
+    {
+      "id": "room-stone",
+      "author": "Marie Dehayes",
+      "source": "https://unsplash.com/photos/hotel-bedroom-with-stone-wall-JQPdhYRLR24",
+      "download": "https://images.unsplash.com/photo-1790419683322-b08a7050c424?auto=format&fit=max&w=2200&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Crete, Greece",
+      "alt_en": "A quiet bedroom with natural stone, white linen and warm timber",
+      "source_dimensions": [
+        2200,
+        3300
+      ],
+      "variants": {
+        "1920": {
+          "file": "room-stone.webp",
+          "width": 1920,
+          "height": 2880,
+          "bytes": 450832
+        },
+        "960": {
+          "file": "room-stone-960.webp",
+          "width": 960,
+          "height": 1440,
+          "bytes": 106940
+        },
+        "640": {
+          "file": "room-stone-640.webp",
+          "width": 640,
+          "height": 960,
+          "bytes": 51702
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Chambre aux murs de pierre, au linge clair et aux détails en bois.",
+        "en": "Bedroom with a stone feature wall, white bedding and timber details.",
+        "it": "Camera con parete in pietra, biancheria chiara e dettagli in legno.",
+        "es": "Dormitorio con una pared de piedra, ropa de cama blanca y detalles de madera.",
+        "de": "Schlafzimmer mit Natursteinwand, weißer Bettwäsche und Holzelementen."
+      }
+    },
+    {
+      "id": "room-wood",
+      "author": "Marcel Strauß",
+      "source": "https://unsplash.com/photos/modern-bedroom-with-wooden-accents-and-natural-light-CMHgRFDANH8",
+      "download": "https://images.unsplash.com/photo-1765547090903-348b711f0eee?auto=format&fit=max&w=2200&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Sokolowsko, Poland",
+      "alt_en": "A contemporary bedroom with timber finishes and soft daylight",
+      "source_dimensions": [
+        1869,
+        2737
+      ],
+      "variants": {
+        "1920": {
+          "file": "room-wood.webp",
+          "width": 1869,
+          "height": 2737,
+          "bytes": 699908
+        },
+        "960": {
+          "file": "room-wood-960.webp",
+          "width": 960,
+          "height": 1406,
+          "bytes": 154396
+        },
+        "640": {
+          "file": "room-wood-640.webp",
+          "width": 640,
+          "height": 937,
+          "bytes": 65968
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Chambre lumineuse habillée de bois, avec un fauteuil près de la fenêtre.",
+        "en": "Light-filled bedroom with timber finishes and an armchair beside the window.",
+        "it": "Camera luminosa con finiture in legno e una poltrona accanto alla finestra.",
+        "es": "Dormitorio luminoso con acabados de madera y un sillón junto a la ventana.",
+        "de": "Lichtdurchflutetes Schlafzimmer mit Holzverkleidung und einem Sessel am Fenster."
+      }
+    },
+    {
+      "id": "room-sea",
+      "author": "Natacha Missakian",
+      "source": "https://unsplash.com/photos/elegant-hotel-room-with-a-view-of-the-sea-3gdMevwmb1U",
+      "download": "https://images.unsplash.com/photo-1776876648949-63ccabf63b10?auto=format&fit=max&w=2200&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Not specified by source",
+      "alt_en": "A light-filled hotel bedroom opening towards the sea",
+      "source_dimensions": [
+        2200,
+        3033
+      ],
+      "variants": {
+        "1920": {
+          "file": "room-sea.webp",
+          "width": 1920,
+          "height": 2647,
+          "bytes": 1369270
+        },
+        "960": {
+          "file": "room-sea-960.webp",
+          "width": 960,
+          "height": 1323,
+          "bytes": 268636
+        },
+        "640": {
+          "file": "room-sea-640.webp",
+          "width": 640,
+          "height": 882,
+          "bytes": 112362
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Chambre aux tons chauds, ouverte sur une vue mer.",
+        "en": "Warm-toned bedroom with a view of the sea.",
+        "it": "Camera dai toni caldi con vista sul mare.",
+        "es": "Dormitorio de tonos cálidos con vistas al mar.",
+        "de": "Schlafzimmer in warmen Farbtönen mit Meerblick."
+      }
+    },
+    {
+      "id": "coast",
+      "author": "Elliot Gouy",
+      "source": "https://unsplash.com/photos/a-rocky-shore-with-a-body-of-water-3tKyKny6LJU",
+      "download": "https://images.unsplash.com/photo-1709594625825-7c03659c695d?auto=format&fit=max&w=2200&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Corsica, France",
+      "alt_en": "The Corsican coast with pale rocks and the movement of the sea",
+      "source_dimensions": [
+        2200,
+        2934
+      ],
+      "variants": {
+        "1920": {
+          "file": "coast.webp",
+          "width": 1920,
+          "height": 2561,
+          "bytes": 555158
+        },
+        "960": {
+          "file": "coast-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 139758
+        },
+        "640": {
+          "file": "coast-640.webp",
+          "width": 640,
+          "height": 854,
+          "bytes": 66752
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Rochers et mouvement de la mer sur le littoral corse à la tombée du jour.",
+        "en": "Rocks and flowing seawater on the Corsican coast at dusk.",
+        "it": "Rocce e movimento del mare lungo la costa corsa al crepuscolo.",
+        "es": "Rocas y movimiento del mar en la costa de Córcega al anochecer.",
+        "de": "Felsen und bewegtes Meer an der korsischen Küste in der Abenddämmerung."
+      }
+    },
+    {
+      "id": "terrace-region",
+      "author": "Eugeniya Belova",
+      "source": "https://unsplash.com/photos/coastal-village-on-cliffs-above-sea-bmRxeog8L_0",
+      "download": "https://images.unsplash.com/photo-1793820667286-fcb2b03018c6?auto=format&fit=max&w=2200&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Cefalu, Italy",
+      "alt_en": "A coastal terrace above old stone buildings and the Mediterranean",
+      "source_dimensions": [
+        2200,
+        3300
+      ],
+      "variants": {
+        "1920": {
+          "file": "terrace-region.webp",
+          "width": 1920,
+          "height": 2880,
+          "bytes": 225732
+        },
+        "960": {
+          "file": "terrace-region-960.webp",
+          "width": 960,
+          "height": 1440,
+          "bytes": 69818
+        },
+        "640": {
+          "file": "terrace-region-640.webp",
+          "width": 640,
+          "height": 960,
+          "bytes": 38572
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Terrasse ombragée face à la mer et au village de Cefalù, en Sicile.",
+        "en": "Shaded terrace overlooking the sea and the village of Cefalù in Sicily.",
+        "it": "Terrazza ombreggiata affacciata sul mare e sul borgo di Cefalù, in Sicilia.",
+        "es": "Terraza a la sombra con vistas al mar y al pueblo de Cefalù, en Sicilia.",
+        "de": "Schattige Terrasse mit Blick auf das Meer und den Ort Cefalù auf Sizilien."
+      }
+    },
+    {
+      "id": "house-pool",
+      "author": "Alef Morais",
+      "source": "https://unsplash.com/photos/swimming-pool-beside-modern-stone-house-skz2V2jG4Qg",
+      "download": "https://images.unsplash.com/photo-1793891465680-030c378bb456?auto=format&fit=max&w=2400&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Not specified by source",
+      "alt_en": "A stone house and shaded terrace beside a turquoise swimming pool",
+      "source_dimensions": [
+        2400,
+        3000
+      ],
+      "variants": {
+        "1920": {
+          "file": "house-pool.webp",
+          "width": 1920,
+          "height": 2400,
+          "bytes": 481166
+        },
+        "960": {
+          "file": "house-pool-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 102442
+        },
+        "640": {
+          "file": "house-pool-640.webp",
+          "width": 640,
+          "height": 800,
+          "bytes": 46272
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Façade en pierre et terrasse au bord d’une piscine turquoise.",
+        "en": "Stone facade and terrace beside a turquoise swimming pool.",
+        "it": "Facciata in pietra e terrazza accanto a una piscina turchese.",
+        "es": "Fachada de piedra y terraza junto a una piscina de aguas turquesas.",
+        "de": "Steinfassade und Terrasse an einem türkisfarbenen Swimmingpool."
+      }
+    },
+    {
+      "id": "coast-sunrise",
+      "author": "Mario von Rotz",
+      "source": "https://unsplash.com/photos/the-sun-is-setting-over-the-ocean-with-waves-7peUhfsUcbY",
+      "download": "https://images.unsplash.com/photo-1687252827323-6bb790696569?auto=format&fit=max&w=2400&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Fautea beach, Zonza, Corsica, France",
+      "alt_en": "First light over the sea on the Corsican coast",
+      "source_dimensions": [
+        2400,
+        1600
+      ],
+      "variants": {
+        "1920": {
+          "file": "coast-sunrise.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 158746
+        },
+        "960": {
+          "file": "coast-sunrise-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 44692
+        },
+        "640": {
+          "file": "coast-sunrise-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 22734
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Première lumière sur la mer, plage de Fautea en Corse.",
+        "en": "First light over the sea at Fautea beach in Corsica.",
+        "it": "La prima luce sul mare, sulla spiaggia di Fautea in Corsica.",
+        "es": "Primeras luces sobre el mar en la playa de Fautea, en Córcega.",
+        "de": "Erstes Morgenlicht über dem Meer am Strand von Fautea auf Korsika."
+      }
+    },
+    {
+      "id": "room-suite",
+      "author": "Point3D Commercial Imaging Ltd.",
+      "source": "https://unsplash.com/photos/brown-wooden-chair-beside-white-bed-bKngjZkGZ1o",
+      "download": "https://images.unsplash.com/photo-1631049307290-bb947b114627?auto=format&fit=max&w=2400&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Not specified by source",
+      "alt_en": "A spacious bedroom with white linen and a warm wood seating area",
+      "source_dimensions": [
+        2400,
+        1600
+      ],
+      "variants": {
+        "1920": {
+          "file": "room-suite.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 142602
+        },
+        "960": {
+          "file": "room-suite-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 38902
+        },
+        "640": {
+          "file": "room-suite-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 21000
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Suite lumineuse avec coin salon, table et chambre séparée.",
+        "en": "Bright suite with a seating area, dining table and separate bedroom.",
+        "it": "Suite luminosa con zona soggiorno, tavolo e camera da letto separata.",
+        "es": "Suite luminosa con zona de estar, mesa y dormitorio independiente.",
+        "de": "Helle Suite mit Sitzbereich, Esstisch und separatem Schlafzimmer."
+      }
+    },
+    {
+      "id": "spa-sauna",
+      "author": "HUUM",
+      "source": "https://unsplash.com/photos/modern-wooden-sauna-interior-with-ambient-lighting-p8VTUqQLLjM",
+      "download": "https://images.unsplash.com/photo-1772616748530-7cd73053f326?auto=format&fit=max&w=2400&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Not specified by source",
+      "alt_en": "A warm timber sauna with soft light and a stone heater",
+      "source_dimensions": [
+        2400,
+        1600
+      ],
+      "variants": {
+        "1920": {
+          "file": "spa-sauna.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 242590
+        },
+        "960": {
+          "file": "spa-sauna-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 68318
+        },
+        "640": {
+          "file": "spa-sauna-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 36160
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Sauna en bois aux lignes épurées, avec bancs et poêle à pierres.",
+        "en": "Streamlined timber sauna with benches and a stone heater.",
+        "it": "Sauna in legno dalle linee essenziali, con panche e stufa con pietre.",
+        "es": "Sauna de madera de líneas sencillas, con bancos y una estufa de piedras.",
+        "de": "Schlicht gestaltete Holzsauna mit Sitzbänken und einem Steinofen."
+      }
+    },
+    {
+      "id": "olive-garden",
+      "author": "Adelina Popova",
+      "source": "https://unsplash.com/photos/green-olives-on-olive-tree-branch-M89fxBB1UCk",
+      "download": "https://images.unsplash.com/photo-1791823783834-6f3ad414a17a?auto=format&fit=max&w=2400&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Lecce, Italy",
+      "alt_en": "Olive branches and green fruit in a Mediterranean garden",
+      "source_dimensions": [
+        2400,
+        3600
+      ],
+      "variants": {
+        "1920": {
+          "file": "olive-garden.webp",
+          "width": 1920,
+          "height": 2880,
+          "bytes": 275878
+        },
+        "960": {
+          "file": "olive-garden-960.webp",
+          "width": 960,
+          "height": 1440,
+          "bytes": 87904
+        },
+        "640": {
+          "file": "olive-garden-640.webp",
+          "width": 640,
+          "height": 960,
+          "bytes": 52170
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Olives vertes et feuillage argenté dans un jardin méditerranéen.",
+        "en": "Green olives and silvery leaves in a Mediterranean garden.",
+        "it": "Olive verdi e foglie argentate in un giardino mediterraneo.",
+        "es": "Aceitunas verdes y hojas plateadas en un jardín mediterráneo.",
+        "de": "Grüne Oliven und silbriges Laub in einem mediterranen Garten."
+      }
+    },
+    {
+      "id": "restaurant-terrace",
+      "author": "Rob Wingate",
+      "source": "https://unsplash.com/photos/restaurant-terrace-overlooking-coastal-town-F9URXg1yuKw",
+      "download": "https://images.unsplash.com/photo-1790534999747-d7583ac9e377?auto=format&fit=max&w=2400&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Skiathos, Greece",
+      "alt_en": "Wooden tables prepared for dinner on a coastal terrace",
+      "source_dimensions": [
+        2400,
+        1600
+      ],
+      "variants": {
+        "1920": {
+          "file": "restaurant-terrace.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 153826
+        },
+        "960": {
+          "file": "restaurant-terrace-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 46010
+        },
+        "640": {
+          "file": "restaurant-terrace-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 23776
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Tables dressées sous une terrasse ombragée, face à la mer au crépuscule.",
+        "en": "Tables set on a shaded terrace overlooking the sea at dusk.",
+        "it": "Tavoli apparecchiati su una terrazza ombreggiata affacciata sul mare al crepuscolo.",
+        "es": "Mesas preparadas en una terraza a la sombra con vistas al mar al atardecer.",
+        "de": "Gedeckte Tische auf einer schattigen Terrasse mit Meerblick in der Abenddämmerung."
+      }
+    },
+    {
+      "id": "restaurant-chef",
+      "author": "Tommaso Ubezio",
+      "source": "https://unsplash.com/photos/chef-carefully-plates-a-delicious-gourmet-dish-O-JFGusrKdk",
+      "download": "https://images.unsplash.com/photo-1750943082640-66f9fd0a4608?auto=format&fit=max&w=2400&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Not specified by source",
+      "alt_en": "A chef finishing a carefully composed Mediterranean dish",
+      "source_dimensions": [
+        2400,
+        3600
+      ],
+      "variants": {
+        "1920": {
+          "file": "restaurant-chef.webp",
+          "width": 1920,
+          "height": 2880,
+          "bytes": 203844
+        },
+        "960": {
+          "file": "restaurant-chef-960.webp",
+          "width": 960,
+          "height": 1440,
+          "bytes": 54194
+        },
+        "640": {
+          "file": "restaurant-chef-640.webp",
+          "width": 640,
+          "height": 960,
+          "bytes": 32156
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Les mains d’un chef apportent la touche finale à une assiette gastronomique.",
+        "en": "A chef’s hands add the finishing touches to a carefully plated dish.",
+        "it": "Le mani di uno chef aggiungono il tocco finale a un piatto gastronomico.",
+        "es": "Las manos de un chef dan el toque final a un plato de alta cocina.",
+        "de": "Die Hände eines Kochs geben einem fein angerichteten Gericht den letzten Schliff."
+      }
+    },
+    {
+      "id": "restaurant-dish",
+      "author": "Tommaso Ubezio",
+      "source": "https://unsplash.com/photos/fish-dish-with-white-wine-dW9UXq9-oI4",
+      "download": "https://images.unsplash.com/photo-1793195552887-9711677f714a?auto=format&fit=max&w=2400&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Not specified by source",
+      "alt_en": "Fish served with a golden puree and a glass of white wine",
+      "source_dimensions": [
+        2400,
+        3600
+      ],
+      "variants": {
+        "1920": {
+          "file": "restaurant-dish.webp",
+          "width": 1920,
+          "height": 2880,
+          "bytes": 181358
+        },
+        "960": {
+          "file": "restaurant-dish-960.webp",
+          "width": 960,
+          "height": 1440,
+          "bytes": 65782
+        },
+        "640": {
+          "file": "restaurant-dish-640.webp",
+          "width": 640,
+          "height": 960,
+          "bytes": 39310
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Poisson sur une purée dorée, accompagné d’un verre de vin blanc.",
+        "en": "Fish served on a golden puree with a glass of white wine.",
+        "it": "Pesce su una purea dorata, accompagnato da un calice di vino bianco.",
+        "es": "Pescado sobre un puré dorado, acompañado de una copa de vino blanco.",
+        "de": "Fisch auf goldenem Püree, begleitet von einem Glas Weißwein."
+      }
+    },
+    {
+      "id": "cap-corse-village",
+      "author": "Pierre Goiffon",
+      "source": "https://unsplash.com/photos/coastal-village-with-buildings-on-a-hillside-overlooking-the-sea-d5obEzGgDng",
+      "download": "https://images.unsplash.com/photo-1756744657663-55bb1a615921?auto=format&fit=max&w=2400&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Nonza, Cap Corse, France",
+      "alt_en": "The village of Nonza above the sea on the Cap Corse coast",
+      "source_dimensions": [
+        2400,
+        1600
+      ],
+      "variants": {
+        "1920": {
+          "file": "cap-corse-village.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 244078
+        },
+        "960": {
+          "file": "cap-corse-village-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 61784
+        },
+        "640": {
+          "file": "cap-corse-village-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 29672
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Le village de Nonza sur les hauteurs du Cap Corse, au-dessus de la mer.",
+        "en": "The village of Nonza above the sea on the Cap Corse coast.",
+        "it": "Il borgo di Nonza sulle alture del Capo Corso, sopra il mare.",
+        "es": "El pueblo de Nonza sobre el mar, en las alturas de Cap Corse.",
+        "de": "Das Dorf Nonza hoch über dem Meer an der Küste des Cap Corse."
+      }
+    },
+    {
+      "id": "cap-corse-sunset",
+      "author": "Romain Virtuel",
+      "source": "https://unsplash.com/photos/the-sun-is-setting-over-the-ocean-with-a-boat-in-the-water-PP0EEZlxOmE",
+      "download": "https://images.unsplash.com/photo-1638478700854-8f2aea70e42a?auto=format&fit=max&w=2400&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "source_location": "Albo, Cap Corse, France",
+      "alt_en": "A boat at sunset off Albo on the Cap Corse coast",
+      "source_dimensions": [
+        2400,
+        1600
+      ],
+      "variants": {
+        "1920": {
+          "file": "cap-corse-sunset.webp",
+          "width": 1920,
+          "height": 1280,
+          "bytes": 117274
+        },
+        "960": {
+          "file": "cap-corse-sunset-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 30590
+        },
+        "640": {
+          "file": "cap-corse-sunset-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 14654
+        }
+      },
+      "modifications": "Resized preserving aspect ratio; converted to WebP. No compositing or artificial text changes.",
+      "alt_by_language": {
+        "fr": "Un voilier au large d’Albo, au coucher du soleil sur le Cap Corse.",
+        "en": "A sailing boat off Albo at sunset on the Cap Corse coast.",
+        "it": "Una barca a vela al largo di Albo, al tramonto sul Capo Corso.",
+        "es": "Un velero frente a Albo al atardecer, en la costa de Cap Corse.",
+        "de": "Ein Segelboot vor Albo im Sonnenuntergang an der Küste des Cap Corse."
+      }
+    }
+  ]
+}

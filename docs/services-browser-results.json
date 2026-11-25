@@ -1,0 +1,1315 @@
+{
+  "languages": {
+    "fr": [
+      "Three translated menus and a real local table reservation",
+      "Menu price update, fixed confirmed quote, table change and cancellation",
+      "Restaurant closure removes availability and reopening restores it",
+      "Bookable excursions, preserved language selection and simulated payment decline/approval",
+      "Activity limits protect confirmed places; modification and cancellation release capacity",
+      "Atomic activity booking prevents selling the final places twice",
+      "Final monochrome accessibility and service layouts"
+    ],
+    "en": [
+      "Three translated menus and a real local table reservation",
+      "Menu price update, fixed confirmed quote, table change and cancellation",
+      "Restaurant closure removes availability and reopening restores it",
+      "Bookable excursions, preserved language selection and simulated payment decline/approval",
+      "Activity limits protect confirmed places; modification and cancellation release capacity",
+      "Atomic activity booking prevents selling the final places twice",
+      "Final monochrome accessibility and service layouts"
+    ],
+    "it": [
+      "Three translated menus and a real local table reservation",
+      "Menu price update, fixed confirmed quote, table change and cancellation",
+      "Restaurant closure removes availability and reopening restores it",
+      "Bookable excursions, preserved language selection and simulated payment decline/approval",
+      "Activity limits protect confirmed places; modification and cancellation release capacity",
+      "Atomic activity booking prevents selling the final places twice",
+      "Final monochrome accessibility and service layouts"
+    ],
+    "es": [
+      "Three translated menus and a real local table reservation",
+      "Menu price update, fixed confirmed quote, table change and cancellation",
+      "Restaurant closure removes availability and reopening restores it",
+      "Bookable excursions, preserved language selection and simulated payment decline/approval",
+      "Activity limits protect confirmed places; modification and cancellation release capacity",
+      "Atomic activity booking prevents selling the final places twice",
+      "Final monochrome accessibility and service layouts"
+    ],
+    "de": [
+      "Three translated menus and a real local table reservation",
+      "Menu price update, fixed confirmed quote, table change and cancellation",
+      "Restaurant closure removes availability and reopening restores it",
+      "Bookable excursions, preserved language selection and simulated payment decline/approval",
+      "Activity limits protect confirmed places; modification and cancellation release capacity",
+      "Atomic activity booking prevents selling the final places twice",
+      "Final monochrome accessibility and service layouts"
+    ]
+  },
+  "errors": [],
+  "network_submissions": [],
+  "layouts": [
+    {
+      "language": "fr",
+      "route": "",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "fr",
+      "route": "table/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "fr",
+      "route": "experiences/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-table/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-activite/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "fr",
+      "route": "",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "table/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "experiences/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-table/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-activite/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "table/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "experiences/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-table/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-activite/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "fr",
+      "route": "",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "fr",
+      "route": "table/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "fr",
+      "route": "experiences/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-table/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-activite/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "en",
+      "route": "table/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "en",
+      "route": "experiences/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-table/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-activite/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "table/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "experiences/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-table/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-activite/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "table/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "experiences/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-table/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-activite/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "en",
+      "route": "table/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "en",
+      "route": "experiences/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-table/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-activite/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "it",
+      "route": "table/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "it",
+      "route": "experiences/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-table/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-activite/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "table/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "experiences/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-table/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-activite/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "table/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "experiences/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-table/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-activite/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "it",
+      "route": "table/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "it",
+      "route": "experiences/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-table/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-activite/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "es",
+      "route": "table/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "es",
+      "route": "experiences/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-table/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-activite/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "table/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "experiences/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-table/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-activite/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "table/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "experiences/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-table/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-activite/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "es",
+      "route": "table/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "es",
+      "route": "experiences/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-table/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-activite/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "de",
+      "route": "table/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "de",
+      "route": "experiences/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-table/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-activite/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "table/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "experiences/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-table/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-activite/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "table/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "experiences/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-table/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-activite/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "de",
+      "route": "table/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "de",
+      "route": "experiences/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-table/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-activite/",
+      "width": 844,
+      "height": 390
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 844,
+      "height": 390
+    }
+  ],
+  "axe": [
+    {
+      "language": "fr",
+      "route": "",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "table/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "experiences/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-table/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-activite/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "table/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "experiences/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-table/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "reserver-une-activite/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "table/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "experiences/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-table/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-activite/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "table/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "experiences/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-table/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "reserver-une-activite/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "table/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "experiences/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-table/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-activite/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "table/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "experiences/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-table/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "reserver-une-activite/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "table/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "experiences/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-table/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-activite/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "table/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "experiences/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-table/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "reserver-une-activite/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "table/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "experiences/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-table/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-activite/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "table/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "experiences/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-table/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "reserver-une-activite/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 390,
+      "violations": []
+    }
+  ]
+}

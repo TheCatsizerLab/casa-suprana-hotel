@@ -1,0 +1,1125 @@
+{
+  "languages": {
+    "fr": [
+      "Availability, room capacities, invalid and valid promotions",
+      "Language switch preserves dates, room, rate, extras and quote",
+      "Extras, declined payment without inventory loss, accepted fictional booking",
+      "Administration rate changes update public quotes, not confirmed bookings",
+      "Persisted lookup, modification, price recalculation and cancellation",
+      "Cross-connection atomic booking prevents selling the final room twice",
+      "Calendar, arrivals, extra prices and promotion management",
+      "Gallery filters and modal, fictional contact with no network submission",
+      "Five viewport sizes, landscape, keyboard navigation, language control and axe",
+      "Reset and language-specific content isolation"
+    ],
+    "en": [
+      "Availability, room capacities, invalid and valid promotions",
+      "Language switch preserves dates, room, rate, extras and quote",
+      "Extras, declined payment without inventory loss, accepted fictional booking",
+      "Administration rate changes update public quotes, not confirmed bookings",
+      "Persisted lookup, modification, price recalculation and cancellation",
+      "Cross-connection atomic booking prevents selling the final room twice",
+      "Calendar, arrivals, extra prices and promotion management",
+      "Gallery filters and modal, fictional contact with no network submission",
+      "Five viewport sizes, landscape, keyboard navigation, language control and axe",
+      "Reset and language-specific content isolation"
+    ],
+    "it": [
+      "Availability, room capacities, invalid and valid promotions",
+      "Language switch preserves dates, room, rate, extras and quote",
+      "Extras, declined payment without inventory loss, accepted fictional booking",
+      "Administration rate changes update public quotes, not confirmed bookings",
+      "Persisted lookup, modification, price recalculation and cancellation",
+      "Cross-connection atomic booking prevents selling the final room twice",
+      "Calendar, arrivals, extra prices and promotion management",
+      "Gallery filters and modal, fictional contact with no network submission",
+      "Five viewport sizes, landscape, keyboard navigation, language control and axe",
+      "Reset and language-specific content isolation"
+    ],
+    "es": [
+      "Availability, room capacities, invalid and valid promotions",
+      "Language switch preserves dates, room, rate, extras and quote",
+      "Extras, declined payment without inventory loss, accepted fictional booking",
+      "Administration rate changes update public quotes, not confirmed bookings",
+      "Persisted lookup, modification, price recalculation and cancellation",
+      "Cross-connection atomic booking prevents selling the final room twice",
+      "Calendar, arrivals, extra prices and promotion management",
+      "Gallery filters and modal, fictional contact with no network submission",
+      "Five viewport sizes, landscape, keyboard navigation, language control and axe",
+      "Reset and language-specific content isolation"
+    ],
+    "de": [
+      "Availability, room capacities, invalid and valid promotions",
+      "Language switch preserves dates, room, rate, extras and quote",
+      "Extras, declined payment without inventory loss, accepted fictional booking",
+      "Administration rate changes update public quotes, not confirmed bookings",
+      "Persisted lookup, modification, price recalculation and cancellation",
+      "Cross-connection atomic booking prevents selling the final room twice",
+      "Calendar, arrivals, extra prices and promotion management",
+      "Gallery filters and modal, fictional contact with no network submission",
+      "Five viewport sizes, landscape, keyboard navigation, language control and axe",
+      "Reset and language-specific content isolation"
+    ]
+  },
+  "errors": [],
+  "network_submissions": [],
+  "layouts": [
+    {
+      "language": "fr",
+      "route": "",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "ma-reservation/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "galerie/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "ma-reservation/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "galerie/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "ma-reservation/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "galerie/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "ma-reservation/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "galerie/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "ma-reservation/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "route": "galerie/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "ma-reservation/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "galerie/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "ma-reservation/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "galerie/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "ma-reservation/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "galerie/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "ma-reservation/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "galerie/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "ma-reservation/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "route": "galerie/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "ma-reservation/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "galerie/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "ma-reservation/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "galerie/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "ma-reservation/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "galerie/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "ma-reservation/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "galerie/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "ma-reservation/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "route": "galerie/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "ma-reservation/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "galerie/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "ma-reservation/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "galerie/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "ma-reservation/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "galerie/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "ma-reservation/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "galerie/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "ma-reservation/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "route": "galerie/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "ma-reservation/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "galerie/",
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "ma-reservation/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "galerie/",
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "ma-reservation/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "galerie/",
+      "width": 390,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "ma-reservation/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "galerie/",
+      "width": 320,
+      "height": 844,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "ma-reservation/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "route": "galerie/",
+      "width": 844,
+      "height": 390,
+      "overflow": false
+    }
+  ],
+  "axe": [
+    {
+      "language": "fr",
+      "route": "",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "reserver/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "route": "administration/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "reserver/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "en",
+      "route": "administration/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "reserver/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "it",
+      "route": "administration/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "reserver/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "es",
+      "route": "administration/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "reserver/",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "language": "de",
+      "route": "administration/",
+      "width": 390,
+      "violations": []
+    }
+  ]
+}

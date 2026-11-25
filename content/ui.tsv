@@ -1,0 +1,185 @@
+nav.home	Accueil	Home	Home	Inicio	Startseite
+nav.house	La maison	The house	La casa	La casa	Das Haus
+nav.rooms	Chambres & suites	Rooms & suites	Camere e suite	Habitaciones y suites	Zimmer & Suiten
+nav.restaurant	La table	The table	La tavola	La mesa	Das Restaurant
+nav.spa	Le spa	The spa	La spa	El spa	Das Spa
+nav.experiences	Les expériences	Experiences	Esperienze	Experiencias	Erlebnisse
+nav.offers	Les offres	Special offers	Offerte speciali	Ofertas especiales	Angebote
+nav.gallery	La galerie	The gallery	La galleria	La galería	Die Galerie
+nav.region	Le Cap Corse	Cap Corse	Il Capo Corso	Cap Corse	Das Cap Corse
+nav.information	Informations pratiques	Useful information	Informazioni utili	Información práctica	Gut zu wissen
+nav.contact	Nous contacter	Contact us	Contattaci	Contacto	Kontakt
+nav.booking	Réserver un séjour	Book a stay	Prenota un soggiorno	Reservar una estancia	Aufenthalt buchen
+nav.manage	Ma réservation	My booking	La mia prenotazione	Mi reserva	Meine Buchung
+nav.admin	Administration démo	Demo administration	Amministrazione demo	Administración de demostración	Demo-Verwaltung
+nav.legal	Mentions légales	Legal notice	Note legali	Aviso legal	Impressum
+nav.privacy	Confidentialité	Privacy	Privacy	Privacidad	Datenschutz
+nav.accessibility	Accessibilité	Accessibility	Accessibilità	Accesibilidad	Barrierefreiheit
+nav.credits	Crédits photographiques	Photo credits	Crediti fotografici	Créditos fotográficos	Bildnachweise
+ui.menu	Menu	Menu	Menu	Menú	Menü
+ui.close	Fermer	Close	Chiudi	Cerrar	Schließen
+ui.language	Choisir la langue	Choose a language	Scegli la lingua	Elegir idioma	Sprache wählen
+ui.skip	Aller au contenu	Skip to content	Vai al contenuto	Ir al contenido	Zum Inhalt springen
+ui.discover	Découvrir la maison	Discover the house	Scopri la casa	Descubrir la casa	Das Haus entdecken
+ui.exploreRooms	Explorer les chambres	Explore the rooms	Esplora le camere	Explorar las habitaciones	Zimmer entdecken
+ui.viewRoom	Découvrir cette chambre	Discover this room	Scopri questa camera	Descubrir esta habitación	Dieses Zimmer entdecken
+ui.chooseRoom	Choisir cette chambre	Choose this room	Scegli questa camera	Elegir esta habitación	Dieses Zimmer wählen
+ui.bookRoom	Réserver cette chambre	Book this room	Prenota questa camera	Reservar esta habitación	Dieses Zimmer buchen
+ui.seeAvailability	Voir les disponibilités	Check availability	Verifica la disponibilità	Consultar disponibilidad	Verfügbarkeit prüfen
+ui.viewGallery	Voir les photographies	View the photographs	Guarda le fotografie	Ver las fotografías	Fotografien ansehen
+ui.enlarge	Agrandir la photographie	Enlarge the photograph	Ingrandisci la fotografia	Ampliar la fotografía	Fotografie vergrößern
+ui.previous	Précédent	Previous	Precedente	Anterior	Zurück
+ui.next	Suivant	Next	Successivo	Siguiente	Weiter
+ui.back	Retour	Back	Indietro	Volver	Zurück
+ui.continue	Continuer	Continue	Continua	Continuar	Weiter
+ui.save	Enregistrer	Save	Salva	Guardar	Speichern
+ui.remove	Supprimer	Remove	Elimina	Eliminar	Entfernen
+ui.cancel	Annuler	Cancel	Annulla	Cancelar	Abbrechen
+ui.modify	Modifier	Modify	Modifica	Modificar	Ändern
+ui.details	Détails du séjour	Stay details	Dettagli del soggiorno	Detalles de la estancia	Aufenthaltsdetails
+ui.loading	Un instant, nous préparons votre séjour…	One moment, we’re preparing your stay…	Un momento, stiamo preparando il tuo soggiorno…	Un momento, estamos preparando tu estancia…	Einen Moment, wir bereiten Ihren Aufenthalt vor…
+ui.retry	Réessayer	Try again	Riprova	Volver a intentar	Erneut versuchen
+ui.saved	Modifications enregistrées dans ce navigateur.	Changes saved in this browser.	Modifiche salvate in questo browser.	Cambios guardados en este navegador.	Änderungen in diesem Browser gespeichert.
+ui.refresh	Actualiser	Refresh	Aggiorna	Actualizar	Aktualisieren
+ui.yes	Oui	Yes	Sì	Sí	Ja
+ui.no	Non	No	No	No	Nein
+ui.active	Actif	Active	Attivo	Activo	Aktiv
+ui.inactive	Inactif	Inactive	Non attivo	Inactivo	Inaktiv
+ui.empty	Aucun élément pour le moment.	Nothing here yet.	Nessun elemento per il momento.	Todavía no hay elementos.	Noch keine Einträge vorhanden.
+ui.localNotice	Démonstration interactive · Établissement fictif · Aucun paiement réel.	Interactive demonstration · Fictional hotel · No real payments.	Dimostrazione interattiva · Hotel immaginario · Nessun pagamento reale.	Demostración interactiva · Hotel ficticio · Sin pagos reales.	Interaktive Demonstration · Fiktives Hotel · Keine echten Zahlungen.
+ui.storageWarning	Le stockage de ce navigateur est indisponible. Vos essais restent temporaires dans cet onglet.	Browser storage is unavailable. Your examples remain temporary in this tab.	Lo spazio di archiviazione del browser non è disponibile. Le prove restano temporanee in questa scheda.	El almacenamiento del navegador no está disponible. Tus pruebas son temporales y solo permanecen en esta pestaña.	Der Browserspeicher ist nicht verfügbar. Ihre Beispiele bleiben nur vorübergehend in diesem Tab erhalten.
+ui.noScript	La présentation reste accessible. Le moteur de réservation et la gestion locale nécessitent JavaScript.	You can still explore the hotel. The booking engine and local management require JavaScript.	Puoi comunque esplorare l’hotel. Il motore di prenotazione e la gestione locale richiedono JavaScript.	Puedes seguir explorando el hotel. El motor de reservas y la gestión local requieren JavaScript.	Die Hotelinformationen bleiben zugänglich. Buchung und lokale Verwaltung benötigen JavaScript.
+footer.line	Une maison à part. Le Cap pour horizon.	A place apart. Cap Corse on the horizon.	Una casa speciale. Il Capo Corso all’orizzonte.	Una casa singular. Cap Corse en el horizonte.	Ein besonderer Ort. Das Cap Corse am Horizont.
+footer.location	Cap Corse, France · Adresse de démonstration	Cap Corse, France · Demonstration address	Capo Corso, Francia · Indirizzo dimostrativo	Cap Corse, Francia · Dirección de demostración	Cap Corse, Frankreich · Fiktive Adresse
+footer.credit	Concept hôtelier indépendant par TheCatsizerLab.	Independent hotel concept by TheCatsizerLab.	Concept alberghiero indipendente di TheCatsizerLab.	Concepto hotelero independiente de TheCatsizerLab.	Unabhängiges Hotelkonzept von TheCatsizerLab.
+footer.portfolio	Retour au portfolio	Back to the portfolio	Torna al portfolio	Volver al portfolio	Zurück zum Portfolio
+footer.documentation	Documentation & vérifications	Documentation & verification	Documentazione e verifiche	Documentación y verificaciones	Dokumentation & Prüfungen
+form.arrival	Arrivée	Check-in	Arrivo	Llegada	Anreise
+form.departure	Départ	Check-out	Partenza	Salida	Abreise
+form.adults	Adultes	Adults	Adulti	Adultos	Erwachsene
+form.children	Enfants · 0–12 ans	Children · ages 0–12	Bambini · 0–12 anni	Niños · 0–12 años	Kinder · 0–12 Jahre
+form.promo	Code d’offre	Offer code	Codice offerta	Código de oferta	Angebotscode
+form.promoPlaceholder	Facultatif	Optional	Facoltativo	Opcional	Optional
+form.search	Trouver mon séjour	Find my stay	Trova il mio soggiorno	Buscar mi estancia	Aufenthalt finden
+form.required	Renseignez ce champ.	Please fill in this field.	Compila questo campo.	Completa este campo.	Bitte füllen Sie dieses Feld aus.
+form.choose	Choisissez une valeur.	Please choose an option.	Scegli un’opzione.	Elige una opción.	Bitte wählen Sie eine Option.
+form.consent	Confirmez votre accord pour continuer.	Please confirm your agreement to continue.	Conferma il tuo consenso per continuare.	Confirma tu aceptación para continuar.	Bitte bestätigen Sie Ihre Zustimmung, um fortzufahren.
+form.invalid	Vérifiez la valeur saisie.	Please check the value entered.	Controlla il valore inserito.	Revisa el valor introducido.	Bitte überprüfen Sie die Eingabe.
+night.one	{count} nuit	{count} night	{count} notte	{count} noche	{count} Nacht
+night.other	{count} nuits	{count} nights	{count} notti	{count} noches	{count} Nächte
+adult.one	{count} adulte	{count} adult	{count} adulto	{count} adulto	{count} Erwachsener
+adult.other	{count} adultes	{count} adults	{count} adulti	{count} adultos	{count} Erwachsene
+child.one	{count} enfant	{count} child	{count} bambino	{count} niño	{count} Kind
+child.other	{count} enfants	{count} children	{count} bambini	{count} niños	{count} Kinder
+guest.one	{count} voyageur	{count} guest	{count} ospite	{count} huésped	{count} Gast
+guest.other	{count} voyageurs	{count} guests	{count} ospiti	{count} huéspedes	{count} Gäste
+room.one	{count} chambre	{count} room	{count} camera	{count} habitación	{count} Zimmer
+room.other	{count} chambres	{count} rooms	{count} camere	{count} habitaciones	{count} Zimmer
+room.from	À partir de {price} / nuit	From {price} / night	Da {price} / notte	Desde {price} / noche	Ab {price} / Nacht
+room.area	{area} m²	{area} m²	{area} m²	{area} m²	{area} m²
+room.capacity	Jusqu’à {count} personnes	Up to {count} guests	Fino a {count} ospiti	Hasta {count} huéspedes	Bis zu {count} Gäste
+feature.garden	Vue jardin	Garden view	Vista giardino	Vistas al jardín	Gartenblick
+feature.sea	Vue mer	Sea view	Vista mare	Vistas al mar	Meerblick
+feature.shower	Douche à l’italienne	Walk-in shower	Doccia a filo pavimento	Ducha a ras de suelo	Bodengleiche Dusche
+feature.king	Lit king size	King-size bed	Letto king size	Cama king size	Kingsize-Bett
+feature.balcony	Balcon privé	Private balcony	Balcone privato	Balcón privado	Privater Balkon
+feature.terrace	Terrasse privée	Private terrace	Terrazza privata	Terraza privada	Private Terrasse
+feature.lounge	Salon séparé	Separate living area	Salotto separato	Salón independiente	Separater Wohnbereich
+feature.bath	Baignoire & douche	Bathtub & shower	Vasca e doccia	Bañera y ducha	Badewanne & Dusche
+feature.twoRooms	Deux chambres	Two bedrooms	Due camere da letto	Dos dormitorios	Zwei Schlafzimmer
+room.included	Dans chaque chambre	In every room	In ogni camera	En todas las habitaciones	In jedem Zimmer
+room.includedBody	Literie en lin, climatisation individuelle, Wi-Fi, café et infusions, eau filtrée et produits d’accueil rechargeables. Un lit bébé est disponible sans supplément dans les suites, sur demande fictive.	Linen bedding, individual air conditioning, Wi-Fi, coffee and herbal teas, filtered water and refillable bathroom amenities. A cot is available at no extra charge in the suites, as a simulated request.	Biancheria in lino, climatizzazione individuale, Wi-Fi, caffè e tisane, acqua filtrata e prodotti da bagno ricaricabili. Nelle suite è disponibile una culla senza supplemento, con richiesta simulata.	Ropa de cama de lino, climatización individual, wifi, café e infusiones, agua filtrada y productos de baño recargables. Las suites pueden incluir una cuna sin suplemento mediante una solicitud simulada.	Leinenbettwäsche, individuelle Klimaanlage, WLAN, Kaffee und Kräutertee, gefiltertes Wasser und nachfüllbare Pflegeprodukte. In den Suiten ist auf simulierte Anfrage ein Babybett ohne Aufpreis verfügbar.
+room.otherRooms	D’autres façons d’habiter la maison	Other ways to make yourself at home	Altri modi di vivere la casa	Otras formas de vivir la casa	Weitere Lieblingsplätze im Haus
+booking.step1	Le séjour	The stay	Il soggiorno	La estancia	Der Aufenthalt
+booking.step2	Les attentions	The extras	Le attenzioni	Los detalles	Die Extras
+booking.step3	Les voyageurs	The guests	Gli ospiti	Los huéspedes	Die Gäste
+booking.step4	La confirmation	Confirmation	La conferma	La confirmación	Die Bestätigung
+booking.demo	Votre séjour d’essai reste dans ce navigateur. Aucune carte bancaire ni réservation réelle.	Your trial stay stays in this browser. No bank card and no real booking.	Il soggiorno di prova resta in questo browser. Nessuna carta bancaria e nessuna prenotazione reale.	Tu estancia de prueba permanece en este navegador. Sin tarjeta bancaria ni reserva real.	Ihr Probeaufenthalt bleibt in diesem Browser. Keine Bankkarte und keine echte Buchung.
+booking.results	Votre escapade prend forme.	Your escape is taking shape.	La tua pausa prende forma.	Tu escapada toma forma.	Ihre Auszeit nimmt Gestalt an.
+booking.available	Disponible pour votre séjour	Available for your stay	Disponibile per il soggiorno	Disponible para tu estancia	Für Ihren Aufenthalt verfügbar
+booking.unavailable	Indisponible pour ces dates	Unavailable for these dates	Non disponibile per queste date	No disponible para estas fechas	Für diese Daten nicht verfügbar
+booking.capacity	Cette chambre ne convient pas au nombre de voyageurs.	This room does not accommodate your party.	Questa camera non è adatta al numero di ospiti.	Esta habitación no admite este número de huéspedes.	Dieses Zimmer bietet nicht genügend Platz für Ihre Reisegruppe.
+booking.chooseOther	Essayez d’autres dates ou un autre hébergement.	Try different dates or another room.	Prova altre date o un’altra sistemazione.	Prueba otras fechas u otro alojamiento.	Versuchen Sie andere Daten oder ein anderes Zimmer.
+booking.flexible	L’esprit libre	Room to change your mind	Libertà di cambiare	Libertad para cambiar	Mit voller Flexibilität
+booking.advance	Le meilleur tarif	The best rate	La tariffa migliore	La mejor tarifa	Der beste Preis
+booking.flexibleShort	Tarif flexible	Flexible rate	Tariffa flessibile	Tarifa flexible	Flexibler Tarif
+booking.advanceShort	Non remboursable · −8 %	Non-refundable · −8%	Non rimborsabile · −8%	No reembolsable · −8 %	Nicht erstattbar · −8 %
+booking.flexibleTerms	Modification et annulation sans frais jusqu’à trois jours avant l’arrivée. Ensuite, l’annulation entraîne une retenue équivalente à la première nuit. Paiement entièrement simulé.	Change or cancel free of charge until three days before arrival. After that, cancellation incurs a charge equal to the first night. Payment is fully simulated.	Modifica o annulla senza penali fino a tre giorni prima dell’arrivo. In seguito, l’annullamento comporta una penale pari alla prima notte. Il pagamento è interamente simulato.	Modifica o cancela sin gastos hasta tres días antes de la llegada. Después, la cancelación conlleva una penalización equivalente a la primera noche. El pago es completamente simulado.	Bis drei Tage vor Anreise kostenlos ändern oder stornieren. Danach fällt bei Stornierung der Preis der ersten Nacht an. Die Zahlung wird vollständig simuliert.
+booking.advanceTerms	8 % de réduction sur l’hébergement. Séjour non modifiable et non remboursable, options et taxe comprises. Aucun débit réel.	8% off accommodation. No changes or refunds, including extras and tax. No real charge is made.	8% di sconto sull’alloggio. Il soggiorno non è modificabile né rimborsabile, inclusi extra e tassa. Nessun addebito reale.	8 % de descuento en el alojamiento. Sin cambios ni reembolsos, incluidos extras e impuesto. No se realiza ningún cobro real.	8 % Nachlass auf die Übernachtung. Keine Änderung oder Erstattung, einschließlich Extras und Abgabe. Es erfolgt keine echte Abbuchung.
+booking.selectRate	Choisir ce tarif	Choose this rate	Scegli questa tariffa	Elegir esta tarifa	Diesen Tarif wählen
+booking.optionsTitle	Les petits plus, les grands souvenirs.	Little extras. Lasting memories.	Piccole attenzioni, grandi ricordi.	Pequeños detalles, grandes recuerdos.	Kleine Extras. Große Erinnerungen.
+booking.optionsIntro	Composez votre séjour. Tous les montants sont détaillés avant confirmation.	Make the stay your own. Every amount is itemised before confirmation.	Personalizza il soggiorno. Ogni importo è indicato prima della conferma.	Personaliza tu estancia. Todos los importes se detallan antes de confirmar.	Gestalten Sie Ihren Aufenthalt. Alle Beträge werden vor der Bestätigung aufgeschlüsselt.
+extra.breakfast	Le petit-déjeuner du jardin	Breakfast from the garden	La colazione del giardino	El desayuno del jardín	Frühstück aus dem Garten
+extra.breakfastBody	Pain encore tiède, fruits de saison, œufs à la demande et spécialités corses. Par personne et par nuit ; demi-tarif pour les enfants.	Warm bread, seasonal fruit, eggs cooked to order and Corsican specialities. Per person, per night; half price for children.	Pane caldo, frutta di stagione, uova preparate al momento e specialità corse. A persona e a notte; metà prezzo per i bambini.	Pan recién hecho, fruta de temporada, huevos al gusto y especialidades corsas. Por persona y noche; mitad de precio para niños.	Warmes Brot, Obst der Saison, Eier nach Wunsch und korsische Spezialitäten. Pro Person und Nacht; Kinder zahlen die Hälfte.
+extra.spa	Le rituel Sous les Pins	The Sous les Pins ritual	Il rituale Sous les Pins	El ritual Sous les Pins	Das Ritual Sous les Pins
+extra.spaBody	Une séance de bien-être de 60 minutes par adulte et par séjour. L’horaire se choisit avec l’équipe dans le scénario de démonstration.	One 60-minute wellness session per adult, per stay. The appointment is arranged with the team in the demonstration scenario.	Una sessione benessere di 60 minuti per adulto e per soggiorno. L’orario viene concordato con il personale nello scenario dimostrativo.	Una sesión de bienestar de 60 minutos por adulto y estancia. La hora se acuerda con el equipo en el escenario de demostración.	Eine 60-minütige Wellnessanwendung pro Erwachsenem und Aufenthalt. Der Termin wird im Demo-Szenario mit dem Team vereinbart.
+extra.transfer	Le transfert de bienvenue	Your arrival transfer	Il trasferimento di benvenuto	El traslado de bienvenida	Ihr Anreisetransfer
+extra.transferBody	Un trajet privé depuis l’aéroport de Bastia, pour l’ensemble des voyageurs. Tarif par réservation, aller simple, entièrement simulé.	A private journey from Bastia Airport for your whole party. Per booking, one way, fully simulated.	Un trasferimento privato dall’aeroporto di Bastia per tutti gli ospiti. A prenotazione, solo andata, interamente simulato.	Un traslado privado desde el aeropuerto de Bastia para todos los huéspedes. Por reserva, solo ida, completamente simulado.	Privater Transfer vom Flughafen Bastia für Ihre gesamte Reisegruppe. Pro Buchung, einfache Fahrt, vollständig simuliert.
+booking.summary	Votre séjour en détail	Your stay, in detail	Il soggiorno, nel dettaglio	Tu estancia, al detalle	Ihr Aufenthalt im Detail
+booking.accommodation	Hébergement	Accommodation	Alloggio	Alojamiento	Übernachtung
+booking.discount	Réduction sur l’hébergement	Accommodation discount	Sconto sull’alloggio	Descuento en el alojamiento	Nachlass auf die Übernachtung
+booking.extras	Prestations complémentaires	Extras	Servizi extra	Servicios adicionales	Zusatzleistungen
+booking.tax	Taxe locale simulée · {price} / adulte / nuit	Simulated local tax · {price} / adult / night	Tassa locale simulata · {price} / adulto / notte	Impuesto local simulado · {price} / adulto / noche	Simulierte örtliche Abgabe · {price} / Erwachsener / Nacht
+booking.total	Total du séjour	Stay total	Totale del soggiorno	Total de la estancia	Gesamtpreis
+booking.vat	Prix en euros, taxes comprises. Aucun montant ne sera débité.	Prices in euros, including taxes. No amount will be charged.	Prezzi in euro, tasse incluse. Non verrà addebitato alcun importo.	Precios en euros, impuestos incluidos. No se cobrará ningún importe.	Preise in Euro einschließlich Steuern. Es wird nichts abgebucht.
+booking.nightlyDetails	Consulter le détail par nuit	View the nightly breakdown	Vedi il dettaglio per notte	Ver el desglose por noche	Aufschlüsselung pro Nacht anzeigen
+booking.guestTitle	Un séjour à votre nom. Pour essayer.	A stay in your name. Just to try.	Un soggiorno a tuo nome. Per provare.	Una estancia a tu nombre. Para probar.	Ein Aufenthalt auf Ihren Namen. Zum Ausprobieren.
+booking.testIdentity	Identité fictive	Fictional identity	Identità immaginaria	Identidad ficticia	Fiktive Identität
+booking.testEmail	E-mail fictif	Fictional email	E-mail immaginaria	Correo ficticio	Fiktive E-Mail-Adresse
+booking.identityHelp	Choisissez un profil d’essai ; aucune coordonnée personnelle n’est nécessaire.	Choose a test profile; no personal contact details are needed.	Scegli un profilo di prova; non servono dati personali.	Elige un perfil de prueba; no se necesitan datos personales.	Wählen Sie ein Testprofil; persönliche Kontaktdaten sind nicht erforderlich.
+booking.paymentTitle	Paiement de démonstration	Demonstration payment	Pagamento dimostrativo	Pago de demostración	Demo-Zahlung
+booking.paymentHelp	Aucune carte bancaire. Vous pouvez essayer un paiement accepté ou refusé.	No bank card. You can try an approved or declined payment.	Nessuna carta bancaria. Puoi provare un pagamento accettato o rifiutato.	Sin tarjeta bancaria. Puedes probar un pago aceptado o rechazado.	Keine Bankkarte. Sie können eine erfolgreiche oder abgelehnte Zahlung ausprobieren.
+booking.paymentApproved	Simuler un paiement accepté	Simulate an approved payment	Simula un pagamento accettato	Simular un pago aceptado	Erfolgreiche Zahlung simulieren
+booking.paymentDeclined	Simuler un paiement refusé	Simulate a declined payment	Simula un pagamento rifiutato	Simular un pago rechazado	Abgelehnte Zahlung simulieren
+booking.accept	J’accepte les conditions du tarif et comprends qu’il s’agit d’un séjour fictif sans paiement réel.	I accept the rate conditions and understand this is a fictional stay with no real payment.	Accetto le condizioni della tariffa e comprendo che si tratta di un soggiorno immaginario senza pagamento reale.	Acepto las condiciones de la tarifa y entiendo que se trata de una estancia ficticia sin pago real.	Ich akzeptiere die Tarifbedingungen und verstehe, dass dies ein fiktiver Aufenthalt ohne echte Zahlung ist.
+booking.confirm	Confirmer mon séjour d’essai	Confirm my trial stay	Conferma il soggiorno di prova	Confirmar mi estancia de prueba	Probeaufenthalt bestätigen
+booking.confirmedTitle	Votre parenthèse commence ici.	Your escape begins here.	La tua pausa comincia qui.	Tu escapada empieza aquí.	Ihre Auszeit beginnt hier.
+booking.confirmedBody	Votre séjour fictif est enregistré dans ce navigateur. Conservez sa référence pour le retrouver ou le modifier.	Your fictional stay is saved in this browser. Keep its reference to find or change it later.	Il soggiorno immaginario è salvato in questo browser. Conserva il riferimento per ritrovarlo o modificarlo.	Tu estancia ficticia se ha guardado en este navegador. Conserva la referencia para consultarla o modificarla.	Ihr fiktiver Aufenthalt wurde in diesem Browser gespeichert. Bewahren Sie die Referenz auf, um ihn später aufzurufen oder zu ändern.
+booking.reference	Référence de réservation	Booking reference	Riferimento della prenotazione	Referencia de reserva	Buchungsreferenz
+booking.print	Imprimer ma confirmation	Print my confirmation	Stampa la conferma	Imprimir mi confirmación	Bestätigung drucken
+booking.manage	Retrouver mon séjour	Find my stay	Ritrova il soggiorno	Consultar mi estancia	Meinen Aufenthalt aufrufen
+booking.startAgain	Préparer un autre séjour	Plan another stay	Organizza un altro soggiorno	Preparar otra estancia	Weiteren Aufenthalt planen
+manage.find	Retrouver ma réservation	Find my booking	Ritrova la prenotazione	Buscar mi reserva	Meine Buchung aufrufen
+manage.local	Seules les réservations créées dans ce navigateur sont accessibles ici.	Only bookings created in this browser can be found here.	Qui sono accessibili solo le prenotazioni create in questo browser.	Aquí solo se pueden consultar las reservas creadas en este navegador.	Hier sind nur Buchungen verfügbar, die in diesem Browser erstellt wurden.
+manage.myBookings	Vos séjours dans ce navigateur	Your stays in this browser	I soggiorni in questo browser	Tus estancias en este navegador	Ihre Aufenthalte in diesem Browser
+manage.confirmed	Confirmée	Confirmed	Confermata	Confirmada	Bestätigt
+manage.cancelled	Annulée	Cancelled	Annullata	Cancelada	Storniert
+manage.modify	Modifier les dates ou les voyageurs	Change dates or guests	Modifica date o ospiti	Cambiar fechas o huéspedes	Daten oder Gäste ändern
+manage.cancel	Annuler ce séjour	Cancel this stay	Annulla questo soggiorno	Cancelar esta estancia	Diesen Aufenthalt stornieren
+manage.changeQuote	Recalculer mon séjour	Recalculate my stay	Ricalcola il soggiorno	Recalcular mi estancia	Aufenthalt neu berechnen
+manage.changeConfirm	Confirmer la modification	Confirm the change	Conferma la modifica	Confirmar el cambio	Änderung bestätigen
+manage.changed	Votre séjour a été modifié. La différence de prix est simulée : {amount}.	Your stay has been changed. The price difference is simulated: {amount}.	Il soggiorno è stato modificato. La differenza di prezzo è simulata: {amount}.	Tu estancia se ha modificado. La diferencia de precio es simulada: {amount}.	Ihr Aufenthalt wurde geändert. Die Preisdifferenz wird simuliert: {amount}.
+manage.cancelTitle	Avant de renoncer à votre parenthèse…	Before you cancel your escape…	Prima di rinunciare alla tua pausa…	Antes de cancelar tu escapada…	Bevor Sie Ihre Auszeit stornieren…
+manage.cancelFee	Frais d’annulation simulés	Simulated cancellation charge	Penale di annullamento simulata	Gastos de cancelación simulados	Simulierte Stornogebühr
+manage.refund	Montant remboursé dans la simulation	Refund in the simulation	Rimborso nella simulazione	Reembolso en la simulación	Erstattung in der Simulation
+manage.cancelConfirm	Confirmer l’annulation	Confirm cancellation	Conferma l’annullamento	Confirmar la cancelación	Stornierung bestätigen
+manage.cancelSuccess	Le séjour est annulé. Ses disponibilités sont de nouveau proposées.	The stay has been cancelled. Its dates are available again.	Il soggiorno è stato annullato. Le date sono di nuovo disponibili.	La estancia se ha cancelado. Sus fechas vuelven a estar disponibles.	Der Aufenthalt wurde storniert. Die Verfügbarkeit wurde wieder freigegeben.
+manage.noChanges	Les conditions de ce tarif ou la proximité de l’arrivée ne permettent plus de modifier ce séjour.	This rate’s conditions or the proximity of arrival mean this stay can no longer be changed.	Le condizioni della tariffa o la vicinanza dell’arrivo non consentono più di modificare il soggiorno.	Las condiciones de la tarifa o la proximidad de la llegada ya no permiten modificar esta estancia.	Die Tarifbedingungen oder die bevorstehende Anreise lassen keine Änderung dieses Aufenthalts mehr zu.
+manage.noBookings	Votre prochaine parenthèse reste à écrire.	Your next escape is still to be written.	La tua prossima pausa è ancora da scrivere.	Tu próxima escapada está por escribir.	Ihre nächste Auszeit wartet noch auf Sie.
+error.invalidDates	Choisissez des dates valides.	Choose valid dates.	Scegli date valide.	Elige fechas válidas.	Wählen Sie gültige Daten.
+error.stayLength	Choisissez un séjour de 1 à 21 nuits ; le minimum du tarif reste applicable.	Choose a stay of 1–21 nights; the rate’s minimum stay still applies.	Scegli un soggiorno da 1 a 21 notti; resta valido il soggiorno minimo della tariffa.	Elige una estancia de 1 a 21 noches; sigue siendo aplicable la estancia mínima de la tarifa.	Wählen Sie einen Aufenthalt von 1 bis 21 Nächten; der Mindestaufenthalt des Tarifs gilt weiterhin.
+error.dateWindow	Choisissez un séjour entre aujourd’hui et les 12 prochains mois.	Choose a stay between today and the next 12 months.	Scegli un soggiorno tra oggi e i prossimi 12 mesi.	Elige una estancia entre hoy y los próximos 12 meses.	Wählen Sie einen Aufenthalt ab heute innerhalb der nächsten zwölf Monate.
+error.invalidGuests	Choisissez de 1 à 4 adultes et de 0 à 3 enfants, dans la capacité de la chambre.	Choose 1–4 adults and 0–3 children, within the room’s capacity.	Scegli da 1 a 4 adulti e da 0 a 3 bambini, entro la capienza della camera.	Elige de 1 a 4 adultos y de 0 a 3 niños, sin superar la capacidad de la habitación.	Wählen Sie 1 bis 4 Erwachsene und 0 bis 3 Kinder innerhalb der Zimmerkapazität.
+error.capacity	Cette chambre ne peut pas accueillir ce nombre de voyageurs.	This room cannot accommodate that number of guests.	Questa camera non può accogliere questo numero di ospiti.	Esta habitación no admite ese número de huéspedes.	Dieses Zimmer kann diese Gästezahl nicht aufnehmen.
+error.unknownRoom	Cet hébergement n’est pas proposé.	This room is not offered.	Questa sistemazione non è disponibile.	Este alojamiento no se ofrece.	Dieses Zimmer wird nicht angeboten.
+error.invalidPlan	Choisissez une formule tarifaire proposée.	Choose one of the available rate plans.	Scegli una delle tariffe disponibili.	Elige una de las tarifas disponibles.	Wählen Sie einen verfügbaren Tarif.
+error.minimumStay	Un séjour minimum de {minimum} nuits s’applique à ces dates.	A minimum stay of {minimum} nights applies to these dates.	Per queste date è richiesto un soggiorno minimo di {minimum} notti.	Estas fechas requieren una estancia mínima de {minimum} noches.	Für diese Daten gilt ein Mindestaufenthalt von {minimum} Nächten.
+error.unavailable	Cet hébergement vient de devenir indisponible. Choisissez d’autres dates ou une autre chambre.	This room is no longer available. Choose different dates or another room.	Questa sistemazione non è più disponibile. Scegli altre date o un’altra camera.	Este alojamiento ya no está disponible. Elige otras fechas u otra habitación.	Dieses Zimmer ist nicht mehr verfügbar. Wählen Sie andere Daten oder ein anderes Zimmer.
+error.invalidPromo	Ce code d’offre n’est pas valide ou n’est plus actif.	This offer code is invalid or no longer active.	Questo codice offerta non è valido o non è più attivo.	Este código de oferta no es válido o ya no está activo.	Dieser Angebotscode ist ungültig oder nicht mehr aktiv.
+error.promoPlan	Les codes d’offre s’appliquent uniquement au tarif flexible.	Offer codes apply only to the flexible rate.	I codici offerta si applicano solo alla tariffa flessibile.	Los códigos de oferta solo se aplican a la tarifa flexible.	Angebotscodes gelten nur für den flexiblen Tarif.
+error.promoMinimum	Cette offre nécessite au moins {minimum} nuits.	This offer requires at least {minimum} nights.	Questa offerta richiede almeno {minimum} notti.	Esta oferta requiere al menos {minimum} noches.	Dieses Angebot erfordert mindestens {minimum} Nächte.
+error.invalidExtra	Une prestation a changé. Actualisez votre sélection.	An extra has changed. Please update your selection.	Un servizio extra è cambiato. Aggiorna la selezione.	Un servicio adicional ha cambiado. Actualiza tu selección.	Eine Zusatzleistung hat sich geändert. Aktualisieren Sie Ihre Auswahl.
+error.fictionalGuest	Choisissez l’un des profils fictifs proposés.	Choose one of the fictional profiles provided.	Scegli uno dei profili immaginari proposti.	Elige uno de los perfiles ficticios disponibles.	Wählen Sie eines der angebotenen fiktiven Profile.
+error.paymentDeclined	Le paiement d’essai a été refusé. Aucune réservation n’a été créée. Vous pouvez réessayer avec le scénario accepté.	The trial payment was declined. No booking was created. You can try again with the approved scenario.	Il pagamento di prova è stato rifiutato. Non è stata creata alcuna prenotazione. Puoi riprovare con lo scenario accettato.	El pago de prueba ha sido rechazado. No se ha creado ninguna reserva. Puedes volver a intentarlo con el escenario aceptado.	Die Testzahlung wurde abgelehnt. Es wurde keine Buchung angelegt. Sie können es mit dem erfolgreichen Szenario erneut versuchen.
+error.acceptTerms	Acceptez les conditions du séjour fictif pour confirmer.	Accept the fictional stay’s conditions to confirm.	Accetta le condizioni del soggiorno immaginario per confermare.	Acepta las condiciones de la estancia ficticia para confirmar.	Akzeptieren Sie die Bedingungen des fiktiven Aufenthalts, um zu bestätigen.
+error.referenceConflict	La référence n’a pas pu être créée. Réessayez ; aucun paiement réel n’a lieu.	The reference could not be created. Please try again; no real payment takes place.	Non è stato possibile creare il riferimento. Riprova; non viene effettuato alcun pagamento reale.	No se ha podido crear la referencia. Vuelve a intentarlo; no se realiza ningún pago real.	Die Referenz konnte nicht angelegt werden. Versuchen Sie es erneut; es erfolgt keine echte Zahlung.
+error.priceChanged	Le prix a changé depuis votre sélection. Recalculez votre séjour avant de confirmer.	The price has changed since your selection. Recalculate your stay before confirming.	Il prezzo è cambiato dalla selezione. Ricalcola il soggiorno prima di confermare.	El precio ha cambiado desde tu selección. Recalcula la estancia antes de confirmar.	Der Preis hat sich seit Ihrer Auswahl geändert. Berechnen Sie den Aufenthalt vor der Bestätigung neu.
+error.bookingNotFound	Cette référence et cet e-mail ne correspondent à aucune réservation dans ce navigateur.	This reference and email do not match a booking in this browser.	Questo riferimento e questa e-mail non corrispondono a una prenotazione in questo browser.	Esta referencia y este correo no corresponden a ninguna reserva en este navegador.	Diese Referenz und E-Mail-Adresse passen zu keiner Buchung in diesem Browser.
+error.alreadyCancelled	Ce séjour a déjà été annulé.	This stay has already been cancelled.	Questo soggiorno è già stato annullato.	Esta estancia ya se ha cancelado.	Dieser Aufenthalt wurde bereits storniert.
+error.changeClosed	Ce séjour ne peut plus être modifié selon les conditions de son tarif.	This stay can no longer be changed under its rate conditions.	Questo soggiorno non può più essere modificato secondo le condizioni della tariffa.	Esta estancia ya no se puede modificar según las condiciones de su tarifa.	Dieser Aufenthalt kann gemäß den Tarifbedingungen nicht mehr geändert werden.
+error.cancelClosed	Un séjour dont l’arrivée est passée ne peut plus être annulé dans cette démonstration.	A stay whose arrival date has passed can no longer be cancelled in this demonstration.	Un soggiorno con data di arrivo già trascorsa non può più essere annullato in questa dimostrazione.	Una estancia cuya fecha de llegada ya ha pasado no se puede cancelar en esta demostración.	Ein Aufenthalt mit vergangenem Anreisedatum kann in dieser Demo nicht mehr storniert werden.
+error.invalidBlock	Vérifiez les dates et le nombre de chambres à fermer.	Check the dates and the number of rooms to close.	Controlla le date e il numero di camere da chiudere.	Revisa las fechas y el número de habitaciones que quieres cerrar.	Prüfen Sie die Daten und die Anzahl der zu sperrenden Zimmer.
+error.blockConflict	Cette fermeture recouvrirait une réservation existante. Choisissez d’autres dates ou moins de chambres.	This closure would overlap an existing booking. Choose different dates or fewer rooms.	Questa chiusura si sovrapporrebbe a una prenotazione esistente. Scegli altre date o meno camere.	Este cierre se solaparía con una reserva existente. Elige otras fechas o menos habitaciones.	Diese Sperre würde eine bestehende Buchung betreffen. Wählen Sie andere Daten oder weniger Zimmer.
+error.invalidRate	Vérifiez la période, le prix de 50 à 5 000 € et le minimum de 1 à 21 nuits.	Check the period, a price between €50 and €5,000, and a minimum stay of 1–21 nights.	Controlla il periodo, un prezzo da 50 a 5.000 € e un soggiorno minimo da 1 a 21 notti.	Revisa el periodo, un precio de entre 50 y 5.000 € y una estancia mínima de 1 a 21 noches.	Prüfen Sie den Zeitraum, einen Preis von 50 bis 5.000 € und einen Mindestaufenthalt von 1 bis 21 Nächten.
+error.serviceUnavailable	Le service est momentanément indisponible. Réessayez dans quelques instants.	The service is temporarily unavailable. Please try again shortly.	Il servizio è momentaneamente non disponibile. Riprova tra poco.	El servicio no está disponible temporalmente. Vuelve a intentarlo en unos instantes.	Der Dienst ist vorübergehend nicht verfügbar. Versuchen Sie es in Kürze erneut.
+error.storageUnavailable	L’enregistrement local est indisponible. Votre séjour n’a pas été confirmé.	Local storage is unavailable. Your stay has not been confirmed.	Il salvataggio locale non è disponibile. Il soggiorno non è stato confermato.	El almacenamiento local no está disponible. Tu estancia no se ha confirmado.	Das lokale Speichern ist nicht verfügbar. Ihr Aufenthalt wurde nicht bestätigt.

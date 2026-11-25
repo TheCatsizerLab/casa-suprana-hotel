@@ -1,0 +1,294 @@
+{
+  "layouts": [
+    {
+      "language": "fr",
+      "page": "portfolio",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "portfolio",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "portfolio",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "portfolio",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "hotel-case",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "hotel-case",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "hotel-case",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "hotel-case",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "portfolio",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "portfolio",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "portfolio",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "portfolio",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "hotel-case",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "hotel-case",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "hotel-case",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "hotel-case",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "portfolio",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "portfolio",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "portfolio",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "portfolio",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "hotel-case",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "hotel-case",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "hotel-case",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "hotel-case",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "portfolio",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "portfolio",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "portfolio",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "portfolio",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "hotel-case",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "hotel-case",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "hotel-case",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "hotel-case",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "portfolio",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "portfolio",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "portfolio",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "portfolio",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "hotel-case",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "hotel-case",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "hotel-case",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "hotel-case",
+      "width": 320,
+      "overflow": false
+    }
+  ],
+  "galleries": [
+    "fr",
+    "en",
+    "it",
+    "es",
+    "de"
+  ],
+  "links": [
+    {
+      "language": "fr",
+      "page": "portfolio"
+    },
+    {
+      "language": "fr",
+      "page": "hotel-case"
+    },
+    {
+      "language": "en",
+      "page": "portfolio"
+    },
+    {
+      "language": "en",
+      "page": "hotel-case"
+    },
+    {
+      "language": "it",
+      "page": "portfolio"
+    },
+    {
+      "language": "it",
+      "page": "hotel-case"
+    },
+    {
+      "language": "es",
+      "page": "portfolio"
+    },
+    {
+      "language": "es",
+      "page": "hotel-case"
+    },
+    {
+      "language": "de",
+      "page": "portfolio"
+    },
+    {
+      "language": "de",
+      "page": "hotel-case"
+    }
+  ],
+  "errors": []
+}

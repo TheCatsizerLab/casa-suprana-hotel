@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.php -text
+*.webp binary
+*.woff2 binary

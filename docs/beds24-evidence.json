@@ -1,0 +1,33 @@
+{
+  "checked": "2026-11-25",
+  "note": "Two independently documented establishments, with ZOPA represented by its two properties. No design award asserted for these examples.",
+  "examples": [
+    {
+      "property": "Finca Son Jorbo",
+      "official_source_page": "https://fincasonjorbo.com/en/booking/",
+      "booking_url": "https://www.beds24.com/booking2.php?1&ownerid=2896&propid=4595&referer=wordpress&lang=de",
+      "final_url": "https://www.beds24.com/booking2.php?1&ownerid=2896&propid=4595&referer=wordpress&lang=de",
+      "http_status": 200,
+      "page_title": "Secure Online Booking",
+      "action": "Read-only public GET. No dates submitted, no booking, modification or cancellation performed."
+    },
+    {
+      "property": "ZOPA Nishicho",
+      "official_source_page": "https://zopahotel.com/tokusho/",
+      "booking_url": "https://beds24.com/booking2.php?propid=236558",
+      "final_url": "https://beds24.com/booking2.php?propid=236558",
+      "http_status": 200,
+      "page_title": "Secure Online Booking",
+      "action": "Read-only public GET. No dates submitted, no booking, modification or cancellation performed."
+    },
+    {
+      "property": "ZOPA Horikawa",
+      "official_source_page": "https://zopahotel.com/tokusho/",
+      "booking_url": "https://beds24.com/booking2.php?propid=263813",
+      "final_url": "https://beds24.com/booking2.php?propid=263813",
+      "http_status": 200,
+      "page_title": "Secure Online Booking",
+      "action": "Read-only public GET. No dates submitted, no booking, modification or cancellation performed."
+    }
+  ]
+}

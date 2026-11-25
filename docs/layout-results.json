@@ -1,0 +1,1800 @@
+{
+  "pages": [
+    {
+      "path": "/casa-suprana-hotel/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/maison/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/chambres/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/chambres/chambre-jardin/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/chambres/chambre-mer/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/chambres/suite-terrasse/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/chambres/suite-pins/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/table/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/spa/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/experiences/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/offres/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/galerie/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/region/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/informations/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/contact/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/reserver/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/reserver-une-table/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/reserver-une-activite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/ma-reservation/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/administration/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/mentions-legales/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/confidentialite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/accessibilite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/credits/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/maison/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/chambres/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/chambres/chambre-jardin/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/chambres/chambre-mer/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/chambres/suite-terrasse/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/chambres/suite-pins/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/table/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/spa/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/experiences/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/offres/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/galerie/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/region/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/informations/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/contact/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/reserver/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/reserver-une-table/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/reserver-une-activite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/ma-reservation/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/administration/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/mentions-legales/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/confidentialite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/accessibilite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/credits/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/maison/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/chambres/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/chambres/chambre-jardin/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/chambres/chambre-mer/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/chambres/suite-terrasse/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/chambres/suite-pins/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/table/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/spa/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/experiences/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/offres/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/galerie/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/region/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/informations/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/contact/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/reserver/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/reserver-une-table/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/reserver-une-activite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/ma-reservation/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/administration/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/mentions-legales/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/confidentialite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/accessibilite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/credits/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/maison/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/chambres/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/chambres/chambre-jardin/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/chambres/chambre-mer/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/chambres/suite-terrasse/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/chambres/suite-pins/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/table/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/spa/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/experiences/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/offres/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/galerie/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/region/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/informations/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/contact/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/reserver/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/reserver-une-table/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/reserver-une-activite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/ma-reservation/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/administration/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/mentions-legales/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/confidentialite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/accessibilite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/credits/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/maison/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/chambres/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/chambres/chambre-jardin/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/chambres/chambre-mer/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/chambres/suite-terrasse/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/chambres/suite-pins/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/table/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/spa/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/experiences/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/offres/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/galerie/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/region/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/informations/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/contact/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/reserver/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/reserver-une-table/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/reserver-une-activite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/ma-reservation/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/administration/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/mentions-legales/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/confidentialite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/accessibilite/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/credits/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/maison/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/chambres/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/chambres/chambre-jardin/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/chambres/chambre-mer/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/chambres/suite-terrasse/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/chambres/suite-pins/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/table/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/spa/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/experiences/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/offres/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/galerie/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/region/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/informations/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/contact/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/reserver/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/reserver-une-table/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/reserver-une-activite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/ma-reservation/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/administration/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/mentions-legales/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/confidentialite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/accessibilite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/credits/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/maison/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/chambres/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/chambres/chambre-jardin/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/chambres/chambre-mer/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/chambres/suite-terrasse/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/chambres/suite-pins/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/table/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/spa/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/experiences/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/offres/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/galerie/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/region/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/informations/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/contact/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/reserver/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/reserver-une-table/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/reserver-une-activite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/ma-reservation/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/administration/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/mentions-legales/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/confidentialite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/accessibilite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/en/credits/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/maison/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/chambres/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/chambres/chambre-jardin/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/chambres/chambre-mer/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/chambres/suite-terrasse/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/chambres/suite-pins/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/table/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/spa/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/experiences/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/offres/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/galerie/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/region/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/informations/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/contact/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/reserver/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/reserver-une-table/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/reserver-une-activite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/ma-reservation/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/administration/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/mentions-legales/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/confidentialite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/accessibilite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/it/credits/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/maison/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/chambres/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/chambres/chambre-jardin/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/chambres/chambre-mer/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/chambres/suite-terrasse/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/chambres/suite-pins/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/table/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/spa/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/experiences/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/offres/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/galerie/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/region/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/informations/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/contact/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/reserver/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/reserver-une-table/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/reserver-une-activite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/ma-reservation/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/administration/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/mentions-legales/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/confidentialite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/accessibilite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/es/credits/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/maison/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/chambres/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/chambres/chambre-jardin/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/chambres/chambre-mer/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/chambres/suite-terrasse/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/chambres/suite-pins/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/table/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/spa/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/experiences/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/offres/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/galerie/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/region/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/informations/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/contact/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/reserver/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/reserver-une-table/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/reserver-une-activite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/ma-reservation/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/administration/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/mentions-legales/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/confidentialite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/accessibilite/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "/casa-suprana-hotel/de/credits/",
+      "width": 320,
+      "overflow": false
+    }
+  ],
+  "admin_tabs": [
+    {
+      "language": "fr",
+      "tab": "calendar",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "tab": "arrivals",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "tab": "bookings",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "tab": "availability",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "tab": "rates",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "tab": "extras",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "tab": "promotions",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "tab": "restaurant",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "tab": "activities",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "tab": "content",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "tab": "integration",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "tab": "calendar",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "tab": "arrivals",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "tab": "bookings",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "tab": "availability",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "tab": "rates",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "tab": "extras",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "tab": "promotions",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "tab": "restaurant",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "tab": "activities",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "tab": "content",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "tab": "integration",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "tab": "calendar",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "tab": "arrivals",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "tab": "bookings",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "tab": "availability",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "tab": "rates",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "tab": "extras",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "tab": "promotions",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "tab": "restaurant",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "tab": "activities",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "tab": "content",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "tab": "integration",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "tab": "calendar",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "tab": "arrivals",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "tab": "bookings",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "tab": "availability",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "tab": "rates",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "tab": "extras",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "tab": "promotions",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "tab": "restaurant",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "tab": "activities",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "tab": "content",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "tab": "integration",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "tab": "calendar",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "tab": "arrivals",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "tab": "bookings",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "tab": "availability",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "tab": "rates",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "tab": "extras",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "tab": "promotions",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "tab": "restaurant",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "tab": "activities",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "tab": "content",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "tab": "integration",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "tab": "calendar",
+      "width": 320
+    },
+    {
+      "language": "fr",
+      "tab": "arrivals",
+      "width": 320
+    },
+    {
+      "language": "fr",
+      "tab": "bookings",
+      "width": 320
+    },
+    {
+      "language": "fr",
+      "tab": "availability",
+      "width": 320
+    },
+    {
+      "language": "fr",
+      "tab": "rates",
+      "width": 320
+    },
+    {
+      "language": "fr",
+      "tab": "extras",
+      "width": 320
+    },
+    {
+      "language": "fr",
+      "tab": "promotions",
+      "width": 320
+    },
+    {
+      "language": "fr",
+      "tab": "restaurant",
+      "width": 320
+    },
+    {
+      "language": "fr",
+      "tab": "activities",
+      "width": 320
+    },
+    {
+      "language": "fr",
+      "tab": "content",
+      "width": 320
+    },
+    {
+      "language": "fr",
+      "tab": "integration",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "tab": "calendar",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "tab": "arrivals",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "tab": "bookings",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "tab": "availability",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "tab": "rates",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "tab": "extras",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "tab": "promotions",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "tab": "restaurant",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "tab": "activities",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "tab": "content",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "tab": "integration",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "tab": "calendar",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "tab": "arrivals",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "tab": "bookings",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "tab": "availability",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "tab": "rates",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "tab": "extras",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "tab": "promotions",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "tab": "restaurant",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "tab": "activities",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "tab": "content",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "tab": "integration",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "tab": "calendar",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "tab": "arrivals",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "tab": "bookings",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "tab": "availability",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "tab": "rates",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "tab": "extras",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "tab": "promotions",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "tab": "restaurant",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "tab": "activities",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "tab": "content",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "tab": "integration",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "tab": "calendar",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "tab": "arrivals",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "tab": "bookings",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "tab": "availability",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "tab": "rates",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "tab": "extras",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "tab": "promotions",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "tab": "restaurant",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "tab": "activities",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "tab": "content",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "tab": "integration",
+      "width": 320
+    }
+  ],
+  "checkout": [
+    {
+      "language": "fr",
+      "width": 390
+    },
+    {
+      "language": "en",
+      "width": 390
+    },
+    {
+      "language": "it",
+      "width": 390
+    },
+    {
+      "language": "es",
+      "width": 390
+    },
+    {
+      "language": "de",
+      "width": 390
+    },
+    {
+      "language": "fr",
+      "width": 320
+    },
+    {
+      "language": "en",
+      "width": 320
+    },
+    {
+      "language": "it",
+      "width": 320
+    },
+    {
+      "language": "es",
+      "width": 320
+    },
+    {
+      "language": "de",
+      "width": 320
+    }
+  ],
+  "errors": [],
+  "overflow": []
+}

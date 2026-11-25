@@ -1,0 +1,127 @@
+[
+  {
+    "language": "fr",
+    "route": "table/",
+    "width": 768
+  },
+  {
+    "language": "fr",
+    "route": "reserver-une-table/",
+    "width": 768
+  },
+  {
+    "language": "fr",
+    "route": "reserver-une-activite/",
+    "width": 768
+  },
+  {
+    "language": "fr",
+    "section": "restaurant",
+    "width": 768
+  },
+  {
+    "language": "fr",
+    "section": "activities",
+    "width": 768
+  },
+  {
+    "language": "en",
+    "route": "table/",
+    "width": 768
+  },
+  {
+    "language": "en",
+    "route": "reserver-une-table/",
+    "width": 768
+  },
+  {
+    "language": "en",
+    "route": "reserver-une-activite/",
+    "width": 768
+  },
+  {
+    "language": "en",
+    "section": "restaurant",
+    "width": 768
+  },
+  {
+    "language": "en",
+    "section": "activities",
+    "width": 768
+  },
+  {
+    "language": "it",
+    "route": "table/",
+    "width": 768
+  },
+  {
+    "language": "it",
+    "route": "reserver-une-table/",
+    "width": 768
+  },
+  {
+    "language": "it",
+    "route": "reserver-une-activite/",
+    "width": 768
+  },
+  {
+    "language": "it",
+    "section": "restaurant",
+    "width": 768
+  },
+  {
+    "language": "it",
+    "section": "activities",
+    "width": 768
+  },
+  {
+    "language": "es",
+    "route": "table/",
+    "width": 768
+  },
+  {
+    "language": "es",
+    "route": "reserver-une-table/",
+    "width": 768
+  },
+  {
+    "language": "es",
+    "route": "reserver-une-activite/",
+    "width": 768
+  },
+  {
+    "language": "es",
+    "section": "restaurant",
+    "width": 768
+  },
+  {
+    "language": "es",
+    "section": "activities",
+    "width": 768
+  },
+  {
+    "language": "de",
+    "route": "table/",
+    "width": 768
+  },
+  {
+    "language": "de",
+    "route": "reserver-une-table/",
+    "width": 768
+  },
+  {
+    "language": "de",
+    "route": "reserver-une-activite/",
+    "width": 768
+  },
+  {
+    "language": "de",
+    "section": "restaurant",
+    "width": 768
+  },
+  {
+    "language": "de",
+    "section": "activities",
+    "width": 768
+  }
+]

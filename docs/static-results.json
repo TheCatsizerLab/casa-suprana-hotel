@@ -1,0 +1,17 @@
+{
+  "pages": 120,
+  "metadata_errors": [],
+  "broken_links": [],
+  "catalogs": {
+    "fr": 483,
+    "en": 483,
+    "it": 483,
+    "es": 483,
+    "de": 483
+  },
+  "legacy_checksums": {
+    "ortu-beds24.php": "b581c246f2eb05d6c4ef262e1e409a2ecb335639f73d8008b5b9eddc64b975a4",
+    "translations.php": "550c77b0475faadaa98b8f9a8cb505bfe9e8b2fb0ac2a8c7b428efecf9f7dbc3",
+    "uninstall.php": "e68e741fba21421fb6dcf35eb3bf57665bcd2ba1ce36d3383456a657952f6aae"
+  }
+}

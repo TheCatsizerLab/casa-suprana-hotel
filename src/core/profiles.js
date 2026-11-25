@@ -1,0 +1,1 @@
+export const TEST_GUESTS=[{id:'camille',name:'Camille Exemple',email:'camille@exemple.test'},{id:'alex',name:'Alex Voyage',email:'alex@exemple.test'},{id:'sacha',name:'Sacha Démo',email:'sacha@exemple.test'}];

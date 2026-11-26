@@ -2,7 +2,9 @@
 from pathlib import Path
 import json,html,shutil
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT.parents[1]/'outputs/hotel-atelier-20261126';DOC=ROOT/'docs'
+if (ROOT.parents[1]/'outputs/hotel-qa/static-results.json').exists():shutil.copyfile(ROOT.parents[1]/'outputs/hotel-qa/static-results.json',DOC/'static-results.json')
 scores=json.loads((OUT/'lighthouse-results.json').read_text(encoding='utf8')) if (OUT/'lighthouse-results.json').exists() else []
+assert not scores or len(scores)==10,'Wait for all production measurements before publishing final results.'
 for source,target in [('lighthouse-results.json','atelier-lighthouse-results.json'),('verification.json','atelier-checks.json'),('capture-dimensions.json','atelier-capture-dimensions.json')]:
  if (OUT/source).exists():shutil.copyfile(OUT/source,DOC/target)
 rows=''.join('<tr><td>'+r['language'].upper()+'</td><td>'+r['device']+'</td>'+''.join('<td>'+str(r['scores'][key])+'</td>' for key in ['performance','accessibility','best-practices','seo'])+'</tr>' for r in scores)

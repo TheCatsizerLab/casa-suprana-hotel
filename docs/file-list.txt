@@ -320,3 +320,4 @@ tools/capture.py
 tools/lighthouse.py
 tools/report.py
 tools/serve.py
+docs/atelier-lighthouse-results.json

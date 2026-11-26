@@ -1,0 +1,332 @@
+[
+  {
+    "language": "fr",
+    "name": "activities",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "fr",
+    "name": "administration",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "fr",
+    "name": "booking",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "fr",
+    "name": "calendar",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "fr",
+    "name": "home",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "fr",
+    "name": "mobile-booking",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "fr",
+    "name": "mobile-checkout",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "fr",
+    "name": "mobile",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "fr",
+    "name": "restaurant",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "fr",
+    "name": "room",
+    "width": 1425,
+    "height": 1000
+  },
+  {
+    "language": "fr",
+    "name": "table-booking",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "en",
+    "name": "activities",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "en",
+    "name": "administration",
+    "width": 1425,
+    "height": 1000
+  },
+  {
+    "language": "en",
+    "name": "booking",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "en",
+    "name": "calendar",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "en",
+    "name": "home",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "en",
+    "name": "mobile-booking",
+    "width": 375,
+    "height": 844
+  },
+  {
+    "language": "en",
+    "name": "mobile-checkout",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "en",
+    "name": "mobile",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "en",
+    "name": "restaurant",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "en",
+    "name": "room",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "en",
+    "name": "table-booking",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "it",
+    "name": "activities",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "it",
+    "name": "administration",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "it",
+    "name": "booking",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "it",
+    "name": "calendar",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "it",
+    "name": "home",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "it",
+    "name": "mobile-booking",
+    "width": 375,
+    "height": 844
+  },
+  {
+    "language": "it",
+    "name": "mobile-checkout",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "it",
+    "name": "mobile",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "it",
+    "name": "restaurant",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "it",
+    "name": "room",
+    "width": 1425,
+    "height": 1000
+  },
+  {
+    "language": "it",
+    "name": "table-booking",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "es",
+    "name": "activities",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "es",
+    "name": "administration",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "es",
+    "name": "booking",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "es",
+    "name": "calendar",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "es",
+    "name": "home",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "es",
+    "name": "mobile-booking",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "es",
+    "name": "mobile-checkout",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "es",
+    "name": "mobile",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "es",
+    "name": "restaurant",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "es",
+    "name": "room",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "es",
+    "name": "table-booking",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "de",
+    "name": "activities",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "de",
+    "name": "administration",
+    "width": 1425,
+    "height": 1000
+  },
+  {
+    "language": "de",
+    "name": "booking",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "de",
+    "name": "calendar",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "de",
+    "name": "home",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "de",
+    "name": "mobile-booking",
+    "width": 375,
+    "height": 844
+  },
+  {
+    "language": "de",
+    "name": "mobile-checkout",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "de",
+    "name": "mobile",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "language": "de",
+    "name": "restaurant",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "de",
+    "name": "room",
+    "width": 1425,
+    "height": 990
+  },
+  {
+    "language": "de",
+    "name": "table-booking",
+    "width": 1425,
+    "height": 990
+  }
+]

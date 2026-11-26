@@ -706,6 +706,94 @@
         "es": "Un velero frente a Albo al atardecer, en la costa de Cap Corse.",
         "de": "Ein Segelboot vor Albo im Sonnenuntergang an der Küste des Cap Corse."
       }
+    },
+    {
+      "id": "corsica-beach",
+      "author": "Slim MARS",
+      "source": "https://unsplash.com/photos/white-sand-beach-clear-turquoise-ocean-and-distant-mountains-6W7CYCJtBl8",
+      "download": "https://images.unsplash.com/photo-1781991028757-7fff5763a861?auto=format&fit=max&w=2400&q=90",
+      "source_location": "Plage de Saleccia, Corse, France",
+      "alt_by_language": {
+        "fr": "Sable blanc et eau turquoise sur la plage de Saleccia, en Corse.",
+        "en": "White sand and turquoise water on Saleccia beach in Corsica.",
+        "it": "Sabbia bianca e acqua turchese sulla spiaggia di Saleccia, in Corsica.",
+        "es": "Arena blanca y agua turquesa en la playa de Saleccia, en Córcega.",
+        "de": "Weißer Sand und türkisfarbenes Wasser am Strand von Saleccia auf Korsika."
+      },
+      "source_dimensions": [
+        2400,
+        1350
+      ],
+      "variants": {
+        "1920": {
+          "file": "corsica-beach.webp",
+          "width": 1920,
+          "height": 1080,
+          "bytes": 150620
+        },
+        "960": {
+          "file": "corsica-beach-960.webp",
+          "width": 960,
+          "height": 540,
+          "bytes": 43940
+        },
+        "640": {
+          "file": "corsica-beach-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 20612
+        }
+      },
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "checked": "2026-11-26",
+      "alt_en": "White sand and turquoise water on Saleccia beach in Corsica.",
+      "modifications": "Resized preserving aspect ratio and encoded as WebP. Original colours retained; no compositing, artificial text or invented content.",
+      "verified_free_license": true
+    },
+    {
+      "id": "corsica-maquis",
+      "author": "Ivan Ragozin",
+      "source": "https://unsplash.com/photos/aerial-view-of-green-trees-and-blue-sea-during-daytime-hcqlLgjPrcw",
+      "download": "https://images.unsplash.com/photo-1592285273835-78c20c0aab5d?auto=format&fit=max&w=2400&q=90",
+      "source_location": "Corsica, France (the photographer identifies the island; precise beach not named)",
+      "alt_by_language": {
+        "fr": "Vue aérienne d’un littoral corse, entre maquis, rochers et mer bleue.",
+        "en": "Aerial view of the Corsican coastline, with maquis, rocks and blue sea.",
+        "it": "Veduta aerea della costa corsa, tra macchia mediterranea, rocce e mare blu.",
+        "es": "Vista aérea de la costa corsa, entre matorral mediterráneo, rocas y mar azul.",
+        "de": "Luftaufnahme der korsischen Küste mit Macchia, Felsen und blauem Meer."
+      },
+      "source_dimensions": [
+        2400,
+        1599
+      ],
+      "variants": {
+        "1920": {
+          "file": "corsica-maquis.webp",
+          "width": 1920,
+          "height": 1279,
+          "bytes": 396634
+        },
+        "960": {
+          "file": "corsica-maquis-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 117300
+        },
+        "640": {
+          "file": "corsica-maquis-640.webp",
+          "width": 640,
+          "height": 426,
+          "bytes": 55390
+        }
+      },
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "checked": "2026-11-26",
+      "alt_en": "Aerial view of the Corsican coastline, with maquis, rocks and blue sea.",
+      "modifications": "Resized preserving aspect ratio and encoded as WebP. Original colours retained; no compositing, artificial text or invented content.",
+      "verified_free_license": true
     }
   ]
 }

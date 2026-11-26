@@ -70,3 +70,12 @@ Les variantes `-960.webp` et `-640.webp` permettent de conserver de vraies photo
 
 ## Final palette — user direction
 On 25 November 2026 the owner selected a monochrome direction: deep charcoal, mineral white and platinum grey. The earlier pine-green direction was replaced throughout the public site, booking engine and administration. Photographs retain their original colours.
+
+
+## Casa Suprana — nouvelle direction du 26 novembre 2026
+
+Référence demandée par le propriétaire : [1, Place Vendôme](https://www.1-placevendome.com/fr/), consultée le 26 novembre 2026. Le site présente un paysage de photographies encadrées, des collages botaniques et un cartouche éditorial central. Casa Suprana reprend cette intention de découverte dans une composition HTML originale, accessible au clavier, avec un carnet insulaire, un herbier vectoriel dessiné pour ce projet et ses propres photographies. Aucun code, texte commercial, logo ou média de Place Vendôme n’est repris.
+
+Le cadrage, les traits doubles et la composition asymétrique donnent le rythme ; l’identité reste celle du maquis et du littoral corses. Les mouvements se limitent à des dessins animés brièvement et aux apparitions des chapitres. Aucune photo ne zoome, le défilement reste natif et la préférence de réduction du mouvement est respectée.
+
+Deux nouvelles images sont sourcées dans le manifeste : Saleccia par Slim MARS, et un littoral corse par Ivan Ragozin. Saleccia est une invitation à explorer l’île, pas une plage privée revendiquée par l’hôtel fictif. La localisation précise de l’image de Ragozin n’est pas affirmée au-delà de la Corse.

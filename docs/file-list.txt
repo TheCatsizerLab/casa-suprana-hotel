@@ -1,11 +1,11 @@
-CASA SUPRANA — NEW SEPARATE REPOSITORY
-All files below are new. Existing WordPress connector copies are preserved unchanged.
+CASA SUPRANA — REPOSITORY FILES
 .gitattributes
 .gitignore
 .nojekyll
 README.md
 accessibilite/index.html
 administration/index.html
+assets/atelier.css
 assets/fonts/OFL.txt
 assets/fonts/instrument-serif-0.woff2
 assets/fonts/instrument-serif-1.woff2
@@ -28,6 +28,12 @@ assets/images/coast-sunrise-640.webp
 assets/images/coast-sunrise-960.webp
 assets/images/coast-sunrise.webp
 assets/images/coast.webp
+assets/images/corsica-beach-640.webp
+assets/images/corsica-beach-960.webp
+assets/images/corsica-beach.webp
+assets/images/corsica-maquis-640.webp
+assets/images/corsica-maquis-960.webp
+assets/images/corsica-maquis.webp
 assets/images/hero-sea-640.webp
 assets/images/hero-sea-960.webp
 assets/images/hero-sea.webp
@@ -78,6 +84,7 @@ chambres/suite-terrasse/index.html
 confidentialite/index.html
 contact/index.html
 content/admin.tsv
+content/atelier.tsv
 content/editorial.tsv
 content/services.tsv
 content/short.tsv
@@ -107,6 +114,10 @@ de/reserver-une-table/index.html
 de/reserver/index.html
 de/spa/index.html
 de/table/index.html
+docs/atelier-capture-dimensions.json
+docs/atelier-changed-files.txt
+docs/atelier-checks.json
+docs/atelier-verification.html
 docs/award-evidence.json
 docs/beds24-evidence.json
 docs/beds24.html
@@ -272,6 +283,9 @@ server/provider.mjs
 spa/index.html
 src/admin.js
 src/app.js
+src/atelier-art.js
+src/atelier-home.js
+src/atelier.js
 src/booking.js
 src/config.js
 src/core/data.js
@@ -299,6 +313,8 @@ tests/production.py
 tests/services-browser.py
 tests/services.test.mjs
 tests/static.py
+tools/atelier-lighthouse.py
+tools/atelier-report.py
 tools/build.mjs
 tools/capture.py
 tools/lighthouse.py

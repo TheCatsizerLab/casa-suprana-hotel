@@ -1,3 +1,4 @@
+import {installAtelier} from './atelier.js';
 import {BASE,LANGUAGES,ORIGIN,pathFor,escapeHTML as e} from './config.js';
 import {createI18n} from './i18n.js';
 import {HotelStore} from './core/store.js';
@@ -32,5 +33,6 @@ async function boot(){
  if(route==='manage')await (await import('./manage.js')).mountManage(context);
  if(route==='admin')await (await import('./admin.js')).mountAdmin(context);
  document.documentElement.dataset.ready='true';
+ if(!['admin','booking','manage','tableBooking','activityBooking'].includes(route))installAtelier();
 }
 boot().catch(()=>{const copy={fr:'Le service est momentanément indisponible. Rechargez la page.',en:'The service is temporarily unavailable. Please reload the page.',it:'Il servizio è momentaneamente non disponibile. Ricarica la pagina.',es:'El servicio no está disponible temporalmente. Vuelve a cargar la página.',de:'Der Dienst ist vorübergehend nicht verfügbar. Bitte laden Sie die Seite neu.'};const note=document.createElement('p');note.className='wrap simulation-note';note.setAttribute('role','alert');note.textContent=copy[language]||copy.fr;document.querySelector('main').append(note);document.documentElement.dataset.failed='true';});

@@ -1,0 +1,41 @@
+{
+  "release": "2026-11-26",
+  "unitTests": 24,
+  "staticPages": 120,
+  "localLayoutChecks": 50,
+  "languages": [
+    "fr",
+    "en",
+    "it",
+    "es",
+    "de"
+  ],
+  "viewports": [
+    {
+      "width": 320,
+      "height": 844
+    },
+    {
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "width": 844,
+      "height": 390
+    }
+  ],
+  "overflows": 0,
+  "heroTextOverflows": 0,
+  "uiJourneys": [
+    "Room payment declined then approved",
+    "Room guest count modified",
+    "Room booking cancelled",
+    "Restaurant table confirmed",
+    "Activity places confirmed"
+  ],
+  "javascriptErrorsObserved": 0,
+  "captures": 55,
+  "businessModulesChanged": false,
+  "beds24LiveWrites": 0,
+  "paidServicesAdded": 0
+}

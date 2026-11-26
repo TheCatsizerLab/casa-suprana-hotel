@@ -62,7 +62,8 @@ is not machine-translated. It stays in the language version being edited.
 Beautiful Soup are QA-only tools. `tools/capture.py` creates real interface captures;
 it never paints translated text over an image.
 
-- [Verification report](docs/verification.html)
+- [Current verification report — editorial redesign](docs/atelier-verification.html)
+- [Initial delivery and historical measurements](docs/verification.html)
 - [Beds24 connection procedure and exact limits](docs/beds24.html)
 - [Five independently verified award references](docs/design-references.md)
 - [Photo sources](assets/images/manifest.json)
@@ -98,3 +99,17 @@ Beds24 restaurant or excursion integrations.
 The internal IndexedDB identifier `avelune-hotel-demo` is deliberately retained
 from the early preview so that renaming the hotel does not erase existing trials.
 The public identity, routes, repository and all five language versions are Casa Suprana.
+
+## Editorial redesign — 26 November 2026
+
+`src/atelier-home.js` composes the original island journal, `src/atelier-art.js`
+contains original botanical/compass/wave drawings, and `assets/atelier.css`
+provides the shared presentation. The local providers and booking rules remain
+unchanged. `src/atelier.js` only reveals editorial sections and respects reduced
+motion; ambient drawing animations last less than five seconds and do not loop.
+There is no WebGL, scroll hijacking, external animation library or image zoom.
+New island photos and their exact locations/licences are in the image manifest.
+
+The five-language portfolio retains its existing URLs and uses the 55 refreshed
+interface captures. See the dated report for current results, rather than treating
+the initial delivery’s Lighthouse measurements as measurements of this redesign.
